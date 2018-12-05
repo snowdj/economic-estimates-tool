@@ -248,11 +248,12 @@ function make_map(measure) {
         
         // var map_data = data;
 
-        console.log(JSON.stringify(map_data['$All DCMS Sectors']['$East']['$2016'][0]['GVA']));
+        // console.log(JSON.stringify(map_data['$All DCMS Sectors']['$East']['$2015'][0]['Number of business sites']));
         statesData.features.map(function (d) {
             // console.log(updateRegionName(d.properties.nuts118nm));
             d.properties['GVA'] = map_data['$All DCMS Sectors']['$' + updateRegionName(d.properties.nuts118nm)]['$2016'][0]['GVA'] / 1000;
             d.properties['Employment'] = map_data['$All DCMS Sectors']['$' + updateRegionName(d.properties.nuts118nm)]['$2017'][0]['Employment'];
+            d.properties['Business sites'] = map_data['$All DCMS Sectors']['$' + updateRegionName(d.properties.nuts118nm)]['$2015'][0]['Number of business sites'];
             d.properties['name'] = updateRegionName(d.properties.nuts118nm);
         });
 
@@ -294,6 +295,16 @@ function make_map(measure) {
             '#FFEDA0';
         }
 
+        function getColor3(d) {
+            return d > 200 ? '#800026' :
+            d > 150 ? '#BD0026' :
+            d > 125 ? '#E31A1C' :
+            d > 100 ? '#FC4E2A' :
+            d > 75 ? '#FD8D3C' :
+            d > 50 ? '#FEB24C' :
+            d > 25 ? '#FED976' :
+            '#FFEDA0';
+        }
 
 
         function style(feature) {
@@ -402,6 +413,61 @@ function make_map(measure) {
             style: style2,
             onEachFeature: onEachFeature2
         });
+
+        // add choropleth layer3
+        function style3(feature) {
+            return {
+                fillColor: getColor3(feature.properties['Business sites']),
+                weight: 2,
+                opacity: 1,
+                color: 'white',
+                dashArray: '3',
+                fillOpacity: 0.7
+            };
+        }
+
+        var geojson3;
+
+        // specify hover effects
+        function highlightFeature3(e) {
+            var layer = e.target;
+
+            layer.setStyle({
+                weight: 5,
+                color: '#666',
+                dashArray: '',
+                fillOpacity: 0.7
+            });
+
+            if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                layer.bringToFront();
+            }
+            info.update(layer.feature.properties);
+        }
+
+        function resetHighlight3(e) {
+            geojson3.resetStyle(e.target);
+            info.update();
+        }
+
+        function zoomToFeature3(e) {
+            map.fitBounds(e.target.getBounds());
+        }
+
+        function onEachFeature3(feature, layer) {
+            layer.on({
+                mouseover: highlightFeature3,
+                mouseout: resetHighlight3,
+                click: zoomToFeature3
+            });
+        }
+
+        // add the choropleth layer
+        geojson3 = L.geoJson(statesData, {
+            style: style3,
+            onEachFeature: onEachFeature3
+        });
+
         var legend = L.control({ position: 'bottomright' });
 
         legend.onAdd = function (map) {
@@ -412,11 +478,12 @@ function make_map(measure) {
         };
         legend.update = function (myname) {
             grades = {
-                GVA: [25, 50, 75, 100, 150, 200, 300, 400],
-                Employment: [50, 100, 150, 200, 250, 300, 500]
+                'GVA': [0, 50, 75, 100, 150, 200, 300, 400],
+                'Employment': [0, 50, 100, 150, 200, 250, 300, 500],
+                'Business sites': [0, 50, 100, 150, 200, 250, 300, 500]
             }
             labels = [];
-
+            console.log(myname);
             // loop through our density intervals and generate a label with a colored square for each interval
             if (myname == 'GVA') {
                 this.div.innerHTML = '';
@@ -432,6 +499,13 @@ function make_map(measure) {
                         '<i style="background:' + getColor2(grades[myname][i] + 1) + '"></i> ' +
                         grades[myname][i] + (grades[myname][i + 1] ? '&ndash;' + grades[myname][i + 1] + '<br>' : '+');
                 }
+            } else if (myname == 'Business sites') {
+                this.div.innerHTML = '';
+                for (var i = 0; i < grades[myname].length; i++) {
+                    this.div.innerHTML +=
+                        '<i style="background:' + getColor3(grades[myname][i] + 1) + '"></i> ' +
+                        grades[myname][i] + (grades[myname][i + 1] ? '&ndash;' + grades[myname][i + 1] + '<br>' : '+');
+                }
             } else {
                 console.log('no color lookup for that measure available for legend function');
             }
@@ -440,7 +514,8 @@ function make_map(measure) {
 
         var overlays = {
             "GVA": geojson,
-            "Employment": geojson2
+            "Employment": geojson2,
+            "Business sites": geojson3
         };
         // var options = {
         //     // Make the "Landmarks" group exclusive (use radio inputs)
@@ -467,7 +542,7 @@ function make_map(measure) {
         // method that we will use to update the control based on feature properties passed
         info.update = function (props) {
             this._div.innerHTML = '<h4>Regional Economic Estimates<br>for DCMS Sectors</h4>' + (props ?
-                '<b>' + props.name + '</b><br />' + 'GVA: ' + props.GVA + '<br />' + 'Employment: ' + props.Employment
+                '<b>' + props.name + '</b><br />' + 'GVA: ' + props.GVA + '<br />' + 'Employment: ' + props.Employment + '<br />' + 'Business sites: ' + props['Business sites']
                 : 'Hover over a region');
         };
 
