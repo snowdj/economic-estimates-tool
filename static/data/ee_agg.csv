@@ -6,6 +6,7 @@ All DCMS Sectors,East,2013,130040.0,,
 All DCMS Sectors,East,2014,136762.0,,59.064
 All DCMS Sectors,East,2015,141893.0,,61.74
 All DCMS Sectors,East,2016,147111.12665772895,,
+All DCMS Sectors,East,2017,,322.0,
 All DCMS Sectors,East Midlands,2010,81910.0,,
 All DCMS Sectors,East Midlands,2011,84156.0,,
 All DCMS Sectors,East Midlands,2012,86924.0,,
@@ -13,6 +14,7 @@ All DCMS Sectors,East Midlands,2013,90734.0,,
 All DCMS Sectors,East Midlands,2014,94431.0,,34.063
 All DCMS Sectors,East Midlands,2015,97063.0,,35.323
 All DCMS Sectors,East Midlands,2016,99903.05012682767,,
+All DCMS Sectors,East Midlands,2017,,212.0,
 All DCMS Sectors,London,2010,308208.0,,
 All DCMS Sectors,London,2011,320147.0,,
 All DCMS Sectors,London,2012,336188.0,,
@@ -20,6 +22,7 @@ All DCMS Sectors,London,2013,352261.0,,
 All DCMS Sectors,London,2014,379402.0,,148.329
 All DCMS Sectors,London,2015,388703.0,,158.951
 All DCMS Sectors,London,2016,407728.25654437084,,
+All DCMS Sectors,London,2017,,985.0,
 All DCMS Sectors,North East,2010,44008.0,,
 All DCMS Sectors,North East,2011,45186.0,,
 All DCMS Sectors,North East,2012,46266.0,,
@@ -27,6 +30,7 @@ All DCMS Sectors,North East,2013,46809.0,,
 All DCMS Sectors,North East,2014,48811.0,,15.404
 All DCMS Sectors,North East,2015,50087.0,,16.041
 All DCMS Sectors,North East,2016,50581.86442971607,,
+All DCMS Sectors,North East,2017,,105.0,
 All DCMS Sectors,North West,2010,139447.0,,
 All DCMS Sectors,North West,2011,140133.0,,
 All DCMS Sectors,North West,2012,144592.0,,
@@ -34,6 +38,7 @@ All DCMS Sectors,North West,2013,149815.0,,
 All DCMS Sectors,North West,2014,154709.0,,54.734
 All DCMS Sectors,North West,2015,160882.0,,57.093
 All DCMS Sectors,North West,2016,166235.91249834778,,
+All DCMS Sectors,North West,2017,,350.0,
 All DCMS Sectors,Northern Ireland,2010,31283.999999999996,,
 All DCMS Sectors,Northern Ireland,2011,31933.0,,
 All DCMS Sectors,Northern Ireland,2012,33022.0,,
@@ -41,6 +46,7 @@ All DCMS Sectors,Northern Ireland,2013,33843.0,,
 All DCMS Sectors,Northern Ireland,2014,34819.0,,11.263
 All DCMS Sectors,Northern Ireland,2015,36021.0,,11.596
 All DCMS Sectors,Northern Ireland,2016,37168.56212667661,,
+All DCMS Sectors,Northern Ireland,2017,,60.0,
 All DCMS Sectors,Scotland,2010,110321.0,,
 All DCMS Sectors,Scotland,2011,113245.0,,
 All DCMS Sectors,Scotland,2012,116540.99999999999,,
@@ -48,6 +54,7 @@ All DCMS Sectors,Scotland,2013,122256.0,,
 All DCMS Sectors,Scotland,2014,128594.99999999999,,42.117
 All DCMS Sectors,Scotland,2015,130117.0,,43.565
 All DCMS Sectors,Scotland,2016,133791.65159211212,,
+All DCMS Sectors,Scotland,2017,,303.0,
 All DCMS Sectors,South East,2010,209974.00000000003,,
 All DCMS Sectors,South East,2011,215135.0,,
 All DCMS Sectors,South East,2012,223719.00000000003,,
@@ -55,6 +62,7 @@ All DCMS Sectors,South East,2013,232231.0,,
 All DCMS Sectors,South East,2014,242064.0,,104.336
 All DCMS Sectors,South East,2015,251770.00000000003,,109.038
 All DCMS Sectors,South East,2016,258426.1640766127,,
+All DCMS Sectors,South East,2017,,604.0,
 All DCMS Sectors,South West,2010,106194.99999999999,,
 All DCMS Sectors,South West,2011,107016.0,,
 All DCMS Sectors,South West,2012,111120.00000000001,,
@@ -62,6 +70,7 @@ All DCMS Sectors,South West,2013,113755.0,,
 All DCMS Sectors,South West,2014,120217.99999999999,,54.358
 All DCMS Sectors,South West,2015,122326.0,,56.015
 All DCMS Sectors,South West,2016,127137.90303190518,,
+All DCMS Sectors,South West,2017,,347.0,
 All DCMS Sectors,Wales,2010,48182.0,,
 All DCMS Sectors,Wales,2011,50801.0,,
 All DCMS Sectors,Wales,2012,52127.0,,
@@ -69,6 +78,7 @@ All DCMS Sectors,Wales,2013,54125.0,,
 All DCMS Sectors,Wales,2014,55154.0,,21.517
 All DCMS Sectors,Wales,2015,57316.00000000001,,22.147
 All DCMS Sectors,Wales,2016,59475.48874286397,,
+All DCMS Sectors,Wales,2017,,141.0,
 All DCMS Sectors,West Midlands,2010,100260.0,,
 All DCMS Sectors,West Midlands,2011,103943.0,,
 All DCMS Sectors,West Midlands,2012,107289.99999999999,,
@@ -76,6 +86,7 @@ All DCMS Sectors,West Midlands,2013,111885.0,,
 All DCMS Sectors,West Midlands,2014,117854.99999999999,,41.413
 All DCMS Sectors,West Midlands,2015,121849.0,,43.108
 All DCMS Sectors,West Midlands,2016,126356.34210741642,,
+All DCMS Sectors,West Midlands,2017,,262.0,
 All DCMS Sectors,Yorkshire and The Humber,2010,96087.99999999999,,
 All DCMS Sectors,Yorkshire and The Humber,2011,98261.00000000001,,
 All DCMS Sectors,Yorkshire and The Humber,2012,100100.00000000001,,
@@ -83,6 +94,7 @@ All DCMS Sectors,Yorkshire and The Humber,2013,102933.0,,
 All DCMS Sectors,Yorkshire and The Humber,2014,105582.0,,38.524
 All DCMS Sectors,Yorkshire and The Humber,2015,109890.00000000001,,40.207
 All DCMS Sectors,Yorkshire and The Humber,2016,111987.79867444627,,
+All DCMS Sectors,Yorkshire and The Humber,2017,,251.0,
 Creative Industries,East,2010,3740.567082085594,,
 Creative Industries,East,2011,3943.5950858769284,118,
 Creative Industries,East,2012,4287.0271535434385,153,

@@ -244,27 +244,15 @@ function make_map(measure) {
         .key(function (d) { return d['Sector']; })
         .key(function (d) { return d['Region']; })
         .key(function (d) { return d['Year']; })
-        .rollup(function (leaves) {
-            var keys = d3.merge(leaves.map(function (leaf) { return d3.keys(leaf); }));
-            var keySet = d3.set(keys);
-            keySet.remove('Sector');
-            keySet.remove('Region');
-            keySet.remove('Year');
-            var dataFields = keySet.values()
-            
-            var obj = {};
-            dataFields.forEach(function (dfield) {
-                obj[dfield] = d3.sum(leaves, function (d) { return d[dfield]; });
-            });
-            return obj;
-        })
-        .entries(data);
+        .map(data);
         
-        console.log(JSON.stringify(map_data));
+        // var map_data = data;
+
+        console.log(JSON.stringify(map_data['$All DCMS Sectors']['$East']['$2016'][0]['GVA']));
         statesData.features.map(function (d) {
             // console.log(updateRegionName(d.properties.nuts118nm));
-            d.properties['GVA'] = 95;
-            d.properties['Employment'] = 100000;
+            d.properties['GVA'] = map_data['$All DCMS Sectors']['$' + updateRegionName(d.properties.nuts118nm)]['$2016'][0]['GVA'] / 1000;
+            d.properties['Employment'] = map_data['$All DCMS Sectors']['$' + updateRegionName(d.properties.nuts118nm)]['$2017'][0]['Employment'];
             d.properties['name'] = updateRegionName(d.properties.nuts118nm);
         });
 
@@ -285,15 +273,28 @@ function make_map(measure) {
 
         // add choropleth layer
         function getColor(d) {
-            return d > 1000 ? '#800026' :
-                d > 500 ? '#BD0026' :
-                    d > 200 ? '#E31A1C' :
-                        d > 100 ? '#FC4E2A' :
-                            d > 50 ? '#FD8D3C' :
-                                d > 20 ? '#FEB24C' :
-                                    d > 10 ? '#FED976' :
-                                        '#FFEDA0';
+            return d > 400 ? '#800026' :
+            d > 300 ? '#BD0026' :
+            d > 200 ? '#E31A1C' :
+            d > 150 ? '#FC4E2A' :
+            d > 100 ? '#FD8D3C' :
+            d > 75 ? '#FEB24C' :
+            d > 50 ? '#FED976' :
+            '#FFEDA0';
         }
+        
+        function getColor2(d) {
+            return d > 500 ? '#800026' :
+            d > 300 ? '#BD0026' :
+            d > 250 ? '#E31A1C' :
+            d > 200 ? '#FC4E2A' :
+            d > 150 ? '#FD8D3C' :
+            d > 100 ? '#FEB24C' :
+            d > 50 ? '#FED976' :
+            '#FFEDA0';
+        }
+
+
 
         function style(feature) {
             return {
@@ -351,7 +352,7 @@ function make_map(measure) {
         // add choropleth layer2
         function style2(feature) {
             return {
-                fillColor: getColor(feature.properties.another),
+                fillColor: getColor2(feature.properties.Employment),
                 weight: 2,
                 opacity: 1,
                 color: 'white',
@@ -411,17 +412,28 @@ function make_map(measure) {
         };
         legend.update = function (myname) {
             grades = {
-                GVA: [0, 10, 20, 50, 100, 200, 500, 1000],
-                Employment: [0, 10, 20, 70]
+                GVA: [25, 50, 75, 100, 150, 200, 300, 400],
+                Employment: [50, 100, 150, 200, 250, 300, 500]
             }
             labels = [];
 
             // loop through our density intervals and generate a label with a colored square for each interval
-            this.div.innerHTML = '';
-            for (var i = 0; i < grades[myname].length; i++) {
-                this.div.innerHTML +=
-                    '<i style="background:' + getColor(grades[myname][i] + 1) + '"></i> ' +
-                    grades[myname][i] + (grades[myname][i + 1] ? '&ndash;' + grades[myname][i + 1] + '<br>' : '+');
+            if (myname == 'GVA') {
+                this.div.innerHTML = '';
+                for (var i = 0; i < grades[myname].length; i++) {
+                    this.div.innerHTML +=
+                        '<i style="background:' + getColor(grades[myname][i] + 1) + '"></i> ' +
+                        grades[myname][i] + (grades[myname][i + 1] ? '&ndash;' + grades[myname][i + 1] + '<br>' : '+');
+                }
+            } else if (myname == 'Employment') {
+                this.div.innerHTML = '';
+                for (var i = 0; i < grades[myname].length; i++) {
+                    this.div.innerHTML +=
+                        '<i style="background:' + getColor2(grades[myname][i] + 1) + '"></i> ' +
+                        grades[myname][i] + (grades[myname][i + 1] ? '&ndash;' + grades[myname][i + 1] + '<br>' : '+');
+                }
+            } else {
+                console.log('no color lookup for that measure available for legend function');
             }
         };
         legend.addTo(map);
@@ -454,7 +466,7 @@ function make_map(measure) {
 
         // method that we will use to update the control based on feature properties passed
         info.update = function (props) {
-            this._div.innerHTML = '<h4>Regional Economic Estimates</h4>' + (props ?
+            this._div.innerHTML = '<h4>Regional Economic Estimates<br>for DCMS Sectors</h4>' + (props ?
                 '<b>' + props.name + '</b><br />' + 'GVA: ' + props.GVA + '<br />' + 'Employment: ' + props.Employment
                 : 'Hover over a region');
         };

@@ -25,7 +25,14 @@ gva = df.copy()
 # employment
 
 # all sectors
-# df = pd.read_excel('Tables_1-19-DCMS_Sectors_Economic_Estimates_Employment_2017_tables.xlsx', sheet_name="22 - Region (000's)", skiprows=[0,1,2,3,4])
+df = pd.read_excel('Tables_1-19-DCMS_Sectors_Economic_Estimates_Employment_2017_tables.xlsx', sheet_name="3 - Region (000's)", skiprows=[0,1,2,3,4,5])
+df = df.loc[0:11,['Region (Regional Area Code)', 'Unnamed: 5']]
+df.columns = ['Region', 'Employment']
+df['Region'] = df['Region'].apply(lambda x: x.split(' (')[0])
+df['Year'] = 2017
+df['Sector'] = 'All DCMS Sectors'
+df[['Sector', 'Region', 'Year', 'Employment']]
+allemp = df.copy()
 
 
 # ci
@@ -85,7 +92,8 @@ df = df.drop(index='England', level=1)
 df = df.reset_index()
 culture = df.copy()
 
-employment = pd.concat([ci, digital, culture])
+
+employment = pd.concat([ci, digital, culture, allemp])
 employment = employment.set_index(['Sector', 'Region', 'Year'])
 
 
