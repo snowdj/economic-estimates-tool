@@ -1,8 +1,12 @@
-#mapid { 
-    height: 500px;
-    width: 450px;
+
+/* leaflet */
+#map { 
+    height: 730px;
+    width: 600px;
+    background: none;
 }
 
+/* info box */
 .info {
     padding: 6px 8px;
     font: 14px/16px Arial, Helvetica, sans-serif;
@@ -16,6 +20,7 @@
     color: #777;
 }
 
+/* legend */
 .legend {
     line-height: 18px;
     color: #555;
@@ -26,4 +31,64 @@
     float: left;
     margin-right: 8px;
     opacity: 0.7;
+}
+
+/* C3 */
+/* circle css */
+.chart-text {
+}
+
+.c3-axis-y text, .c3-axis-x text, .c3-legend-item text {
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+.c3-legend-item {
+  margin: 0 50px 0 50px;
+}
+
+/* table.c3-tooltip{
+  font-size:150px;
+  } */
+
+  /* .c3-tooltip td {
+    font-size:13px;
+    padding: 3px 6px;
+    background-color:red;
+    border-left:1px dotted #999;
+    color: #000;
+    } */
+
+
+    .c3-xgrid-line line {
+      stroke: blue;
+  }
+
+/* font color */
+.c3-axis .tick {
+  fill: rgb(102, 102, 102);
+}
+.c3-ygrids .c3-ygrid {
+  /* stroke-dasharray: 20 !important; */
+  stroke-dasharray: 99999;
+  stroke: rgb(230, 230, 230);
+}
+
+#chart .c3-line {
+  stroke-width: 2px;
+}
+
+/* y axis */
+.c3-axis-y .domain {
+  display: none;
+}
+.c3-axis-y .tick line {
+  display: none;
+}
+
+/* x axis */
+.c3-axis-x .domain {
+  stroke: rgb(204, 214, 235);
+}
+.c3-axis-x .tick line {
+  stroke: rgb(204, 214, 235);
 }

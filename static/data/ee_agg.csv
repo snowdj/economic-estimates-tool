@@ -1,640 +1,640 @@
 Sector,Region,Year,GVA,Employment,Number of business sites
-All DCMS Sectors,East,2010,118844.0,,
-All DCMS Sectors,East,2011,120205.0,,
-All DCMS Sectors,East,2012,123745.0,,
-All DCMS Sectors,East,2013,130040.0,,
-All DCMS Sectors,East,2014,136762.0,,59.064
-All DCMS Sectors,East,2015,141893.0,,61.74
-All DCMS Sectors,East,2016,147111.12665772895,,
+All DCMS Sectors,East,2010,9.66007239875463,,
+All DCMS Sectors,East,2011,9.947210011938955,,
+All DCMS Sectors,East,2012,10.42860944811511,,
+All DCMS Sectors,East,2013,10.63849778409938,,
+All DCMS Sectors,East,2014,11.13137225964873,,59.064
+All DCMS Sectors,East,2015,11.385262670612589,,61.74
+All DCMS Sectors,East,2016,11.668533644318643,,
 All DCMS Sectors,East,2017,,322.0,
-All DCMS Sectors,East Midlands,2010,81910.0,,
-All DCMS Sectors,East Midlands,2011,84156.0,,
-All DCMS Sectors,East Midlands,2012,86924.0,,
-All DCMS Sectors,East Midlands,2013,90734.0,,
-All DCMS Sectors,East Midlands,2014,94431.0,,34.063
-All DCMS Sectors,East Midlands,2015,97063.0,,35.323
-All DCMS Sectors,East Midlands,2016,99903.05012682767,,
+All DCMS Sectors,East Midlands,2010,4.952224725427765,,
+All DCMS Sectors,East Midlands,2011,5.105525175082035,,
+All DCMS Sectors,East Midlands,2012,5.366345480301283,,
+All DCMS Sectors,East Midlands,2013,5.312567874680504,,
+All DCMS Sectors,East Midlands,2014,5.4738456564548645,,34.063
+All DCMS Sectors,East Midlands,2015,5.596411273367057,,35.323
+All DCMS Sectors,East Midlands,2016,5.785773596179137,,
 All DCMS Sectors,East Midlands,2017,,212.0,
-All DCMS Sectors,London,2010,308208.0,,
-All DCMS Sectors,London,2011,320147.0,,
-All DCMS Sectors,London,2012,336188.0,,
-All DCMS Sectors,London,2013,352261.0,,
-All DCMS Sectors,London,2014,379402.0,,148.329
-All DCMS Sectors,London,2015,388703.0,,158.951
-All DCMS Sectors,London,2016,407728.25654437084,,
+All DCMS Sectors,London,2010,43.951381264534206,,
+All DCMS Sectors,London,2011,47.43359391240219,,
+All DCMS Sectors,London,2012,49.02367409963836,,
+All DCMS Sectors,London,2013,53.41757721189472,,
+All DCMS Sectors,London,2014,57.068017008531854,,148.329
+All DCMS Sectors,London,2015,59.73952236628823,,158.951
+All DCMS Sectors,London,2016,64.34763313950057,,
 All DCMS Sectors,London,2017,,985.0,
-All DCMS Sectors,North East,2010,44008.0,,
-All DCMS Sectors,North East,2011,45186.0,,
-All DCMS Sectors,North East,2012,46266.0,,
-All DCMS Sectors,North East,2013,46809.0,,
-All DCMS Sectors,North East,2014,48811.0,,15.404
-All DCMS Sectors,North East,2015,50087.0,,16.041
-All DCMS Sectors,North East,2016,50581.86442971607,,
+All DCMS Sectors,North East,2010,2.7946728051074534,,
+All DCMS Sectors,North East,2011,3.2476488640274273,,
+All DCMS Sectors,North East,2012,3.2106074592648,,
+All DCMS Sectors,North East,2013,3.153808219498998,,
+All DCMS Sectors,North East,2014,3.4930996502844067,,15.404
+All DCMS Sectors,North East,2015,3.9972602641033075,,16.041
+All DCMS Sectors,North East,2016,3.7744432475777874,,
 All DCMS Sectors,North East,2017,,105.0,
-All DCMS Sectors,North West,2010,139447.0,,
-All DCMS Sectors,North West,2011,140133.0,,
-All DCMS Sectors,North West,2012,144592.0,,
-All DCMS Sectors,North West,2013,149815.0,,
-All DCMS Sectors,North West,2014,154709.0,,54.734
-All DCMS Sectors,North West,2015,160882.0,,57.093
-All DCMS Sectors,North West,2016,166235.91249834778,,
+All DCMS Sectors,North West,2010,9.90182767667143,,
+All DCMS Sectors,North West,2011,10.67802198572434,,
+All DCMS Sectors,North West,2012,10.990322070468647,,
+All DCMS Sectors,North West,2013,11.206365874604213,,
+All DCMS Sectors,North West,2014,11.393963682105822,,54.734
+All DCMS Sectors,North West,2015,12.192061704959613,,57.093
+All DCMS Sectors,North West,2016,12.298939198610261,,
 All DCMS Sectors,North West,2017,,350.0,
-All DCMS Sectors,Northern Ireland,2010,31283.999999999996,,
-All DCMS Sectors,Northern Ireland,2011,31933.0,,
-All DCMS Sectors,Northern Ireland,2012,33022.0,,
-All DCMS Sectors,Northern Ireland,2013,33843.0,,
-All DCMS Sectors,Northern Ireland,2014,34819.0,,11.263
-All DCMS Sectors,Northern Ireland,2015,36021.0,,11.596
-All DCMS Sectors,Northern Ireland,2016,37168.56212667661,,
+All DCMS Sectors,Northern Ireland,2010,1.8302174377939386,,
+All DCMS Sectors,Northern Ireland,2011,1.991795302124119,,
+All DCMS Sectors,Northern Ireland,2012,2.0808071815031517,,
+All DCMS Sectors,Northern Ireland,2013,2.0591795306261047,,
+All DCMS Sectors,Northern Ireland,2014,1.9831721002104643,,11.263
+All DCMS Sectors,Northern Ireland,2015,1.9671787228297228,,11.596
+All DCMS Sectors,Northern Ireland,2016,2.099082975177872,,
 All DCMS Sectors,Northern Ireland,2017,,60.0,
-All DCMS Sectors,Scotland,2010,110321.0,,
-All DCMS Sectors,Scotland,2011,113245.0,,
-All DCMS Sectors,Scotland,2012,116540.99999999999,,
-All DCMS Sectors,Scotland,2013,122256.0,,
-All DCMS Sectors,Scotland,2014,128594.99999999999,,42.117
-All DCMS Sectors,Scotland,2015,130117.0,,43.565
-All DCMS Sectors,Scotland,2016,133791.65159211212,,
+All DCMS Sectors,Scotland,2010,7.414726207226606,,
+All DCMS Sectors,Scotland,2011,7.430848561665373,,
+All DCMS Sectors,Scotland,2012,7.770612510390982,,
+All DCMS Sectors,Scotland,2013,8.168831699210688,,
+All DCMS Sectors,Scotland,2014,8.014488869357946,,42.117
+All DCMS Sectors,Scotland,2015,8.348645862245071,,43.565
+All DCMS Sectors,Scotland,2016,8.57752679398262,,
 All DCMS Sectors,Scotland,2017,,303.0,
-All DCMS Sectors,South East,2010,209974.00000000003,,
-All DCMS Sectors,South East,2011,215135.0,,
-All DCMS Sectors,South East,2012,223719.00000000003,,
-All DCMS Sectors,South East,2013,232231.0,,
-All DCMS Sectors,South East,2014,242064.0,,104.336
-All DCMS Sectors,South East,2015,251770.00000000003,,109.038
-All DCMS Sectors,South East,2016,258426.1640766127,,
+All DCMS Sectors,South East,2010,25.80566455618632,,
+All DCMS Sectors,South East,2011,28.100762023391304,,
+All DCMS Sectors,South East,2012,29.362233970729992,,
+All DCMS Sectors,South East,2013,30.16057663491262,,
+All DCMS Sectors,South East,2014,29.197372947378724,,104.336
+All DCMS Sectors,South East,2015,30.940355080148674,,109.038
+All DCMS Sectors,South East,2016,32.28464321031698,,
 All DCMS Sectors,South East,2017,,604.0,
-All DCMS Sectors,South West,2010,106194.99999999999,,
-All DCMS Sectors,South West,2011,107016.0,,
-All DCMS Sectors,South West,2012,111120.00000000001,,
-All DCMS Sectors,South West,2013,113755.0,,
-All DCMS Sectors,South West,2014,120217.99999999999,,54.358
-All DCMS Sectors,South West,2015,122326.0,,56.015
-All DCMS Sectors,South West,2016,127137.90303190518,,
+All DCMS Sectors,South West,2010,6.977267215041056,,
+All DCMS Sectors,South West,2011,6.9086664010738215,,
+All DCMS Sectors,South West,2012,7.160775739427769,,
+All DCMS Sectors,South West,2013,7.208958900184762,,
+All DCMS Sectors,South West,2014,8.289105136181407,,54.358
+All DCMS Sectors,South West,2015,7.992327125092441,,56.015
+All DCMS Sectors,South West,2016,8.253650187355293,,
 All DCMS Sectors,South West,2017,,347.0,
-All DCMS Sectors,Wales,2010,48182.0,,
-All DCMS Sectors,Wales,2011,50801.0,,
-All DCMS Sectors,Wales,2012,52127.0,,
-All DCMS Sectors,Wales,2013,54125.0,,
-All DCMS Sectors,Wales,2014,55154.0,,21.517
-All DCMS Sectors,Wales,2015,57316.00000000001,,22.147
-All DCMS Sectors,Wales,2016,59475.48874286397,,
+All DCMS Sectors,Wales,2010,2.5568204622852746,,
+All DCMS Sectors,Wales,2011,2.8040140665823485,,
+All DCMS Sectors,Wales,2012,2.9485828976913417,,
+All DCMS Sectors,Wales,2013,2.8387039596415446,,
+All DCMS Sectors,Wales,2014,2.9095049211802753,,21.517
+All DCMS Sectors,Wales,2015,3.133740546074546,,22.147
+All DCMS Sectors,Wales,2016,3.288473383364376,,
 All DCMS Sectors,Wales,2017,,141.0,
-All DCMS Sectors,West Midlands,2010,100260.0,,
-All DCMS Sectors,West Midlands,2011,103943.0,,
-All DCMS Sectors,West Midlands,2012,107289.99999999999,,
-All DCMS Sectors,West Midlands,2013,111885.0,,
-All DCMS Sectors,West Midlands,2014,117854.99999999999,,41.413
-All DCMS Sectors,West Midlands,2015,121849.0,,43.108
-All DCMS Sectors,West Midlands,2016,126356.34210741642,,
+All DCMS Sectors,West Midlands,2010,7.157285621630437,,
+All DCMS Sectors,West Midlands,2011,6.916623825609046,,
+All DCMS Sectors,West Midlands,2012,6.90412194502824,,
+All DCMS Sectors,West Midlands,2013,7.5996129246830275,,
+All DCMS Sectors,West Midlands,2014,8.022307073601015,,41.413
+All DCMS Sectors,West Midlands,2015,8.177228642758724,,43.108
+All DCMS Sectors,West Midlands,2016,8.611135057078272,,
 All DCMS Sectors,West Midlands,2017,,262.0,
-All DCMS Sectors,Yorkshire and The Humber,2010,96087.99999999999,,
-All DCMS Sectors,Yorkshire and The Humber,2011,98261.00000000001,,
-All DCMS Sectors,Yorkshire and The Humber,2012,100100.00000000001,,
-All DCMS Sectors,Yorkshire and The Humber,2013,102933.0,,
-All DCMS Sectors,Yorkshire and The Humber,2014,105582.0,,38.524
-All DCMS Sectors,Yorkshire and The Humber,2015,109890.00000000001,,40.207
-All DCMS Sectors,Yorkshire and The Humber,2016,111987.79867444627,,
+All DCMS Sectors,Yorkshire and The Humber,2010,5.648762796095898,,
+All DCMS Sectors,Yorkshire and The Humber,2011,6.031612920194055,,
+All DCMS Sectors,Yorkshire and The Humber,2012,6.123408355363319,,
+All DCMS Sectors,Yorkshire and The Humber,2013,5.9978122578244655,,
+All DCMS Sectors,Yorkshire and The Humber,2014,5.761378097017471,,38.524
+All DCMS Sectors,Yorkshire and The Humber,2015,6.078177354903051,,40.207
+All DCMS Sectors,Yorkshire and The Humber,2016,6.276392963156133,,
 All DCMS Sectors,Yorkshire and The Humber,2017,,251.0,
-Creative Industries,East,2010,3740.567082085594,,
-Creative Industries,East,2011,3943.5950858769284,118,
-Creative Industries,East,2012,4287.0271535434385,153,
-Creative Industries,East,2013,4250.8286652770075,150,
-Creative Industries,East,2014,4442.525167515743,136,24.376
-Creative Industries,East,2015,4845.79887253918,139,26.317
-Creative Industries,East,2016,5064.027440498341,148,
+Creative Industries,East,2010,3.740567082085594,,
+Creative Industries,East,2011,3.9435950858769284,118,
+Creative Industries,East,2012,4.2870271535434386,153,
+Creative Industries,East,2013,4.250828665277007,150,
+Creative Industries,East,2014,4.442525167515743,136,24.376
+Creative Industries,East,2015,4.84579887253918,139,26.317
+Creative Industries,East,2016,5.064027440498341,148,
 Creative Industries,East,2017,,146,
-Creative Industries,East Midlands,2010,1715.2849947126635,,
-Creative Industries,East Midlands,2011,1729.6955882462073,67,
-Creative Industries,East Midlands,2012,1928.5668804044233,85,
-Creative Industries,East Midlands,2013,1934.179641890675,83,
-Creative Industries,East Midlands,2014,1970.31867668338,94,11.135
-Creative Industries,East Midlands,2015,1986.6552135145778,103,11.868
-Creative Industries,East Midlands,2016,1993.1411545079316,105,
+Creative Industries,East Midlands,2010,1.7152849947126636,,
+Creative Industries,East Midlands,2011,1.7296955882462073,67,
+Creative Industries,East Midlands,2012,1.9285668804044234,85,
+Creative Industries,East Midlands,2013,1.934179641890675,83,
+Creative Industries,East Midlands,2014,1.97031867668338,94,11.135
+Creative Industries,East Midlands,2015,1.9866552135145779,103,11.868
+Creative Industries,East Midlands,2016,1.9931411545079316,105,
 Creative Industries,East Midlands,2017,,101,
-Creative Industries,London,2010,29399.414652237345,,
-Creative Industries,London,2011,31533.628361666288,497,
-Creative Industries,London,2012,33106.77095662369,513,
-Creative Industries,London,2013,36068.19554736472,530,
-Creative Industries,London,2014,39779.790663864944,575,83.941
-Creative Industries,London,2015,43036.30402188285,575,92.19
-Creative Industries,London,2016,46993.792305762196,623,
+Creative Industries,London,2010,29.399414652237343,,
+Creative Industries,London,2011,31.53362836166629,497,
+Creative Industries,London,2012,33.10677095662369,513,
+Creative Industries,London,2013,36.068195547364716,530,
+Creative Industries,London,2014,39.779790663864944,575,83.941
+Creative Industries,London,2015,43.03630402188285,575,92.19
+Creative Industries,London,2016,46.9937923057622,623,
 Creative Industries,London,2017,,656,
-Creative Industries,North East,2010,669.1162232266892,,
-Creative Industries,North East,2011,823.4414252518523,31,
-Creative Industries,North East,2012,856.0865690034883,33,
-Creative Industries,North East,2013,788.5177788489376,37,
-Creative Industries,North East,2014,822.2492689264944,39,4.02
-Creative Industries,North East,2015,892.4719768446281,38,4.297
-Creative Industries,North East,2016,983.482317245815,42.5,
+Creative Industries,North East,2010,0.6691162232266892,,
+Creative Industries,North East,2011,0.8234414252518523,31,
+Creative Industries,North East,2012,0.8560865690034883,33,
+Creative Industries,North East,2013,0.7885177788489376,37,
+Creative Industries,North East,2014,0.8222492689264944,39,4.02
+Creative Industries,North East,2015,0.8924719768446281,38,4.297
+Creative Industries,North East,2016,0.983482317245815,42.5,
 Creative Industries,North East,2017,,46,
-Creative Industries,North West,2010,3830.4017498402172,,
-Creative Industries,North West,2011,4092.3558189980213,125,
-Creative Industries,North West,2012,4128.522026179715,130,
-Creative Industries,North West,2013,4332.69654640809,130,
-Creative Industries,North West,2014,5010.0969186110515,139,17.648
-Creative Industries,North West,2015,5148.614973545815,138,19.047
-Creative Industries,North West,2016,5194.857705990066,137,
+Creative Industries,North West,2010,3.830401749840217,,
+Creative Industries,North West,2011,4.092355818998021,125,
+Creative Industries,North West,2012,4.128522026179715,130,
+Creative Industries,North West,2013,4.332696546408091,130,
+Creative Industries,North West,2014,5.010096918611051,139,17.648
+Creative Industries,North West,2015,5.148614973545815,138,19.047
+Creative Industries,North West,2016,5.194857705990066,137,
 Creative Industries,North West,2017,,147,
-Creative Industries,Northern Ireland,2010,727.176365228083,,
-Creative Industries,Northern Ireland,2011,814.9011670605922,30,
-Creative Industries,Northern Ireland,2012,862.4178381902815,25,
-Creative Industries,Northern Ireland,2013,856.5018279918104,24,
-Creative Industries,Northern Ireland,2014,863.2399154303375,27,2.766
-Creative Industries,Northern Ireland,2015,935.3456119019577,26,2.918
-Creative Industries,Northern Ireland,2016,1011.7157353838307,24,
+Creative Industries,Northern Ireland,2010,0.727176365228083,,
+Creative Industries,Northern Ireland,2011,0.8149011670605922,30,
+Creative Industries,Northern Ireland,2012,0.8624178381902815,25,
+Creative Industries,Northern Ireland,2013,0.8565018279918104,24,
+Creative Industries,Northern Ireland,2014,0.8632399154303375,27,2.766
+Creative Industries,Northern Ireland,2015,0.9353456119019576,26,2.918
+Creative Industries,Northern Ireland,2016,1.0117157353838306,24,
 Creative Industries,Northern Ireland,2017,,25.331,
-Creative Industries,Scotland,2010,2488.579521997677,,
-Creative Industries,Scotland,2011,2569.587779600045,102,
-Creative Industries,Scotland,2012,2659.821492870512,110,
-Creative Industries,Scotland,2013,3049.723779223679,102,
-Creative Industries,Scotland,2014,3341.602230180537,102,12.323
-Creative Industries,Scotland,2015,3567.6575206474868,117,13.342
-Creative Industries,Scotland,2016,3663.8773060926933,132,
+Creative Industries,Scotland,2010,2.488579521997677,,
+Creative Industries,Scotland,2011,2.569587779600045,102,
+Creative Industries,Scotland,2012,2.659821492870512,110,
+Creative Industries,Scotland,2013,3.0497237792236787,102,
+Creative Industries,Scotland,2014,3.341602230180537,102,12.323
+Creative Industries,Scotland,2015,3.567657520647487,117,13.342
+Creative Industries,Scotland,2016,3.6638773060926932,132,
 Creative Industries,Scotland,2017,,127,
-Creative Industries,South East,2010,12028.254188674946,,
-Creative Industries,South East,2011,12808.886809892525,260,
-Creative Industries,South East,2012,13802.186216862416,279,
-Creative Industries,South East,2013,14226.505914600235,274,
-Creative Industries,South East,2014,13864.986873777929,285,48.654
-Creative Industries,South East,2015,14881.046633138334,297,52.318
-Creative Industries,South East,2016,16040.54010997443,310,
+Creative Industries,South East,2010,12.028254188674946,,
+Creative Industries,South East,2011,12.808886809892526,260,
+Creative Industries,South East,2012,13.802186216862415,279,
+Creative Industries,South East,2013,14.226505914600235,274,
+Creative Industries,South East,2014,13.864986873777928,285,48.654
+Creative Industries,South East,2015,14.881046633138334,297,52.318
+Creative Industries,South East,2016,16.04054010997443,310,
 Creative Industries,South East,2017,,305,
-Creative Industries,South West,2010,3193.3240608534675,,
-Creative Industries,South West,2011,3050.500966816488,117,
-Creative Industries,South West,2012,3218.5638604471837,126,
-Creative Industries,South West,2013,3353.263046924223,128,
-Creative Industries,South West,2014,3832.697746897698,156,19.235
-Creative Industries,South West,2015,3656.962161222988,156,20.42
-Creative Industries,South West,2016,4055.4905859019245,151,
+Creative Industries,South West,2010,3.1933240608534676,,
+Creative Industries,South West,2011,3.050500966816488,117,
+Creative Industries,South West,2012,3.218563860447184,126,
+Creative Industries,South West,2013,3.3532630469242233,128,
+Creative Industries,South West,2014,3.832697746897698,156,19.235
+Creative Industries,South West,2015,3.656962161222988,156,20.42
+Creative Industries,South West,2016,4.055490585901924,151,
 Creative Industries,South West,2017,,159,
-Creative Industries,Wales,2010,811.9302834324324,,
-Creative Industries,Wales,2011,913.471516027282,46,
-Creative Industries,Wales,2012,967.9483794268921,43,
-Creative Industries,Wales,2013,901.509827902837,52,
-Creative Industries,Wales,2014,965.9677806989574,51,5.34
-Creative Industries,Wales,2015,966.000764820577,53,5.702
-Creative Industries,Wales,2016,1056.4758321764066,52,
+Creative Industries,Wales,2010,0.8119302834324323,,
+Creative Industries,Wales,2011,0.9134715160272819,46,
+Creative Industries,Wales,2012,0.967948379426892,43,
+Creative Industries,Wales,2013,0.901509827902837,52,
+Creative Industries,Wales,2014,0.9659677806989574,51,5.34
+Creative Industries,Wales,2015,0.9660007648205771,53,5.702
+Creative Industries,Wales,2016,1.0564758321764065,52,
 Creative Industries,Wales,2017,,62.548,
-Creative Industries,West Midlands,2010,2621.998454475633,,
-Creative Industries,West Midlands,2011,2615.4577055197674,80,
-Creative Industries,West Midlands,2012,2522.8514236265232,95,
-Creative Industries,West Midlands,2013,2710.0533755749184,96,
-Creative Industries,West Midlands,2014,2774.709353704817,107,13.904
-Creative Industries,West Midlands,2015,2958.9710532006156,111,14.885
-Creative Industries,West Midlands,2016,3199.0700817550173,118,
+Creative Industries,West Midlands,2010,2.621998454475633,,
+Creative Industries,West Midlands,2011,2.615457705519767,80,
+Creative Industries,West Midlands,2012,2.5228514236265234,95,
+Creative Industries,West Midlands,2013,2.7100533755749185,96,
+Creative Industries,West Midlands,2014,2.774709353704817,107,13.904
+Creative Industries,West Midlands,2015,2.9589710532006155,111,14.885
+Creative Industries,West Midlands,2016,3.1990700817550173,118,
 Creative Industries,West Midlands,2017,,111,
-Creative Industries,Yorkshire and The Humber,2010,2198.554171572448,,
-Creative Industries,Yorkshire and The Humber,2011,2352.486054227219,82,
-Creative Industries,Yorkshire and The Humber,2012,2381.8480927340083,83,
-Creative Industries,Yorkshire and The Humber,2013,2395.7487931996493,97,
-Creative Industries,Yorkshire and The Humber,2014,2284.639763890097,85,11.776
-Creative Industries,Yorkshire and The Humber,2015,2432.022555993247,103,12.713
-Creative Industries,Yorkshire and The Humber,2016,2571.828662412406,104,
+Creative Industries,Yorkshire and The Humber,2010,2.198554171572448,,
+Creative Industries,Yorkshire and The Humber,2011,2.352486054227219,82,
+Creative Industries,Yorkshire and The Humber,2012,2.381848092734008,83,
+Creative Industries,Yorkshire and The Humber,2013,2.3957487931996493,97,
+Creative Industries,Yorkshire and The Humber,2014,2.2846397638900973,85,11.776
+Creative Industries,Yorkshire and The Humber,2015,2.432022555993247,103,12.713
+Creative Industries,Yorkshire and The Humber,2016,2.5718286624124063,104,
 Creative Industries,Yorkshire and The Humber,2017,,109,
-Cultural Sector,East,2010,774.6779458685405,,
-Cultural Sector,East,2011,777.7236564122754,,
-Cultural Sector,East,2012,875.0762953896435,,
-Cultural Sector,East,2013,767.5313272696649,,
-Cultural Sector,East,2014,789.0047634986327,,5.359
-Cultural Sector,East,2015,845.7386548952826,,5.648
-Cultural Sector,East,2016,903.0710709892744,,
+Cultural Sector,East,2010,0.7746779458685406,,
+Cultural Sector,East,2011,0.7777236564122755,,
+Cultural Sector,East,2012,0.8750762953896435,,
+Cultural Sector,East,2013,0.7675313272696649,,
+Cultural Sector,East,2014,0.7890047634986327,,5.359
+Cultural Sector,East,2015,0.8457386548952825,,5.648
+Cultural Sector,East,2016,0.9030710709892744,,
 Cultural Sector,East,2017,,45,
-Cultural Sector,East Midlands,2010,368.71799857929796,,
-Cultural Sector,East Midlands,2011,414.1235145242611,,
-Cultural Sector,East Midlands,2012,410.5185865503775,,
-Cultural Sector,East Midlands,2013,382.88958916970836,,
-Cultural Sector,East Midlands,2014,371.2833697375472,,2.206
-Cultural Sector,East Midlands,2015,329.5376983355439,,2.329
-Cultural Sector,East Midlands,2016,330.28127069636673,,
+Cultural Sector,East Midlands,2010,0.36871799857929793,,
+Cultural Sector,East Midlands,2011,0.4141235145242611,,
+Cultural Sector,East Midlands,2012,0.4105185865503775,,
+Cultural Sector,East Midlands,2013,0.38288958916970833,,
+Cultural Sector,East Midlands,2014,0.3712833697375472,,2.206
+Cultural Sector,East Midlands,2015,0.3295376983355439,,2.329
+Cultural Sector,East Midlands,2016,0.33028127069636676,,
 Cultural Sector,East Midlands,2017,,29,
-Cultural Sector,London,2010,13372.112940535253,,
-Cultural Sector,London,2011,13898.417047110215,,
-Cultural Sector,London,2012,14688.959068384154,,
-Cultural Sector,London,2013,15341.7722482907,,
-Cultural Sector,London,2014,16284.855169363864,,29.516
-Cultural Sector,London,2015,16959.248831306293,,30.812
-Cultural Sector,London,2016,17878.332781708454,,
+Cultural Sector,London,2010,13.372112940535253,,
+Cultural Sector,London,2011,13.898417047110215,,
+Cultural Sector,London,2012,14.688959068384154,,
+Cultural Sector,London,2013,15.341772248290699,,
+Cultural Sector,London,2014,16.284855169363865,,29.516
+Cultural Sector,London,2015,16.959248831306294,,30.812
+Cultural Sector,London,2016,17.878332781708455,,
 Cultural Sector,London,2017,,220,
-Cultural Sector,North East,2010,185.37024893252175,,
-Cultural Sector,North East,2011,210.04883123252608,,
-Cultural Sector,North East,2012,259.90825146184244,,
-Cultural Sector,North East,2013,250.48872351138104,,
-Cultural Sector,North East,2014,236.57543901479178,,0.932
-Cultural Sector,North East,2015,279.74811247771817,,0.987
-Cultural Sector,North East,2016,266.4483855374916,,
+Cultural Sector,North East,2010,0.18537024893252174,,
+Cultural Sector,North East,2011,0.21004883123252607,,
+Cultural Sector,North East,2012,0.25990825146184243,,
+Cultural Sector,North East,2013,0.250488723511381,,
+Cultural Sector,North East,2014,0.23657543901479178,,0.932
+Cultural Sector,North East,2015,0.2797481124777182,,0.987
+Cultural Sector,North East,2016,0.2664483855374916,,
 Cultural Sector,North East,2017,,17,
-Cultural Sector,North West,2010,840.4685818437241,,
-Cultural Sector,North West,2011,934.996935857366,,
-Cultural Sector,North West,2012,922.8924390236268,,
-Cultural Sector,North West,2013,901.0692379106121,,
-Cultural Sector,North West,2014,1040.720865661792,,3.915
-Cultural Sector,North West,2015,1103.697218502855,,4.091
-Cultural Sector,North West,2016,1004.1828785671196,,
+Cultural Sector,North West,2010,0.8404685818437241,,
+Cultural Sector,North West,2011,0.934996935857366,,
+Cultural Sector,North West,2012,0.9228924390236268,,
+Cultural Sector,North West,2013,0.9010692379106121,,
+Cultural Sector,North West,2014,1.040720865661792,,3.915
+Cultural Sector,North West,2015,1.103697218502855,,4.091
+Cultural Sector,North West,2016,1.0041828785671196,,
 Cultural Sector,North West,2017,,48,
-Cultural Sector,Northern Ireland,2010,223.95389573927147,,
-Cultural Sector,Northern Ireland,2011,260.2964619888821,,
-Cultural Sector,Northern Ireland,2012,228.47156443251663,,
-Cultural Sector,Northern Ireland,2013,222.97581766020377,,
-Cultural Sector,Northern Ireland,2014,231.13529973587646,,0.736
-Cultural Sector,Northern Ireland,2015,210.2379565755375,,0.775
-Cultural Sector,Northern Ireland,2016,213.5860250927877,,
+Cultural Sector,Northern Ireland,2010,0.22395389573927146,,
+Cultural Sector,Northern Ireland,2011,0.26029646198888207,,
+Cultural Sector,Northern Ireland,2012,0.22847156443251662,,
+Cultural Sector,Northern Ireland,2013,0.22297581766020377,,
+Cultural Sector,Northern Ireland,2014,0.23113529973587646,,0.736
+Cultural Sector,Northern Ireland,2015,0.2102379565755375,,0.775
+Cultural Sector,Northern Ireland,2016,0.2135860250927877,,
 Cultural Sector,Northern Ireland,2017,,11,
-Cultural Sector,Scotland,2010,851.8889468475163,,
-Cultural Sector,Scotland,2011,924.2600313110134,,
-Cultural Sector,Scotland,2012,933.4437701155624,,
-Cultural Sector,Scotland,2013,1070.430146799739,,
-Cultural Sector,Scotland,2014,1136.8775833706998,,2.908
-Cultural Sector,Scotland,2015,1110.4453486539373,,3.067
-Cultural Sector,Scotland,2016,1165.1857104428188,,
+Cultural Sector,Scotland,2010,0.8518889468475163,,
+Cultural Sector,Scotland,2011,0.9242600313110134,,
+Cultural Sector,Scotland,2012,0.9334437701155625,,
+Cultural Sector,Scotland,2013,1.070430146799739,,
+Cultural Sector,Scotland,2014,1.1368775833706997,,2.908
+Cultural Sector,Scotland,2015,1.1104453486539374,,3.067
+Cultural Sector,Scotland,2016,1.165185710442819,,
 Cultural Sector,Scotland,2017,,50,
-Cultural Sector,South East,2010,1998.9742473159333,,
-Cultural Sector,South East,2011,1962.8896718662288,,
-Cultural Sector,South East,2012,2082.288443040572,,
-Cultural Sector,South East,2013,2154.6004115551086,,
-Cultural Sector,South East,2014,2193.025294750259,,10.789
-Cultural Sector,South East,2015,2419.4446693553195,,11.298
-Cultural Sector,South East,2016,2563.690195958144,,
+Cultural Sector,South East,2010,1.9989742473159333,,
+Cultural Sector,South East,2011,1.9628896718662288,,
+Cultural Sector,South East,2012,2.082288443040572,,
+Cultural Sector,South East,2013,2.1546004115551085,,
+Cultural Sector,South East,2014,2.193025294750259,,10.789
+Cultural Sector,South East,2015,2.4194446693553195,,11.298
+Cultural Sector,South East,2016,2.563690195958144,,
 Cultural Sector,South East,2017,,91,
-Cultural Sector,South West,2010,889.1653158814778,,
-Cultural Sector,South West,2011,813.2345160268275,,
-Cultural Sector,South West,2012,736.1870332714512,,
-Cultural Sector,South West,2013,722.156738192115,,
-Cultural Sector,South West,2014,765.301121435506,,5.003
-Cultural Sector,South West,2015,843.7009417974474,,5.216
-Cultural Sector,South West,2016,890.9188901943788,,
+Cultural Sector,South West,2010,0.8891653158814778,,
+Cultural Sector,South West,2011,0.8132345160268275,,
+Cultural Sector,South West,2012,0.7361870332714513,,
+Cultural Sector,South West,2013,0.722156738192115,,
+Cultural Sector,South West,2014,0.765301121435506,,5.003
+Cultural Sector,South West,2015,0.8437009417974474,,5.216
+Cultural Sector,South West,2016,0.8909188901943789,,
 Cultural Sector,South West,2017,,56,
-Cultural Sector,Wales,2010,362.72364854203124,,
-Cultural Sector,Wales,2011,386.65906558532157,,
-Cultural Sector,Wales,2012,414.71713605323936,,
-Cultural Sector,Wales,2013,406.928338222506,,
-Cultural Sector,Wales,2014,367.54607278981695,,1.664
-Cultural Sector,Wales,2015,378.6076731960675,,1.78
-Cultural Sector,Wales,2016,402.80894388361514,,
+Cultural Sector,Wales,2010,0.36272364854203126,,
+Cultural Sector,Wales,2011,0.3866590655853216,,
+Cultural Sector,Wales,2012,0.41471713605323934,,
+Cultural Sector,Wales,2013,0.406928338222506,,
+Cultural Sector,Wales,2014,0.36754607278981694,,1.664
+Cultural Sector,Wales,2015,0.3786076731960675,,1.78
+Cultural Sector,Wales,2016,0.40280894388361516,,
 Cultural Sector,Wales,2017,,26,
-Cultural Sector,West Midlands,2010,637.6368295293028,,
-Cultural Sector,West Midlands,2011,637.2880331179008,,
-Cultural Sector,West Midlands,2012,601.6035494890994,,
-Cultural Sector,West Midlands,2013,602.6337881043297,,
-Cultural Sector,West Midlands,2014,633.0121947441816,,2.658
-Cultural Sector,West Midlands,2015,688.6423539011106,,2.749
-Cultural Sector,West Midlands,2016,705.0828624369259,,
+Cultural Sector,West Midlands,2010,0.6376368295293028,,
+Cultural Sector,West Midlands,2011,0.6372880331179008,,
+Cultural Sector,West Midlands,2012,0.6016035494890993,,
+Cultural Sector,West Midlands,2013,0.6026337881043297,,
+Cultural Sector,West Midlands,2014,0.6330121947441816,,2.658
+Cultural Sector,West Midlands,2015,0.6886423539011106,,2.749
+Cultural Sector,West Midlands,2016,0.7050828624369259,,
 Cultural Sector,West Midlands,2017,,34,
-Cultural Sector,Yorkshire and The Humber,2010,557.8433915325152,,
-Cultural Sector,Yorkshire and The Humber,2011,521.4779130832463,,
-Cultural Sector,Yorkshire and The Humber,2012,470.79434611140965,,
-Cultural Sector,Yorkshire and The Humber,2013,482.6649695836746,,
-Cultural Sector,Yorkshire and The Humber,2014,471.5555847392393,,2.642
-Cultural Sector,Yorkshire and The Humber,2015,468.34656651278164,,2.79
-Cultural Sector,Yorkshire and The Humber,2016,442.2556400213205,,
+Cultural Sector,Yorkshire and The Humber,2010,0.5578433915325152,,
+Cultural Sector,Yorkshire and The Humber,2011,0.5214779130832463,,
+Cultural Sector,Yorkshire and The Humber,2012,0.47079434611140963,,
+Cultural Sector,Yorkshire and The Humber,2013,0.48266496958367455,,
+Cultural Sector,Yorkshire and The Humber,2014,0.4715555847392393,,2.642
+Cultural Sector,Yorkshire and The Humber,2015,0.4683465665127816,,2.79
+Cultural Sector,Yorkshire and The Humber,2016,0.4422556400213205,,
 Cultural Sector,Yorkshire and The Humber,2017,,41,
-Digital Sector,East,2010,6662.14254890376,,
-Digital Sector,East,2011,6682.825944557102,,
-Digital Sector,East,2012,7076.4806544339635,,
-Digital Sector,East,2013,7637.838961692853,,
-Digital Sector,East,2014,8148.078255762556,111,21.52
-Digital Sector,East,2015,8031.241558868832,117,22.985
-Digital Sector,East,2016,8113.734751562815,115,
+Digital Sector,East,2010,6.66214254890376,,
+Digital Sector,East,2011,6.682825944557102,,
+Digital Sector,East,2012,7.076480654433963,,
+Digital Sector,East,2013,7.637838961692854,,
+Digital Sector,East,2014,8.148078255762556,111,21.52
+Digital Sector,East,2015,8.031241558868832,117,22.985
+Digital Sector,East,2016,8.113734751562815,115,
 Digital Sector,East,2017,,120,
-Digital Sector,East Midlands,2010,3138.691156036084,,
-Digital Sector,East Midlands,2011,3189.7491707148624,,
-Digital Sector,East Midlands,2012,3453.490700883155,,
-Digital Sector,East Midlands,2013,3648.384941345666,,
-Digital Sector,East Midlands,2014,3649.310120974686,82,9.637
-Digital Sector,East Midlands,2015,3549.44988779301,72,10.209
-Digital Sector,East Midlands,2016,3633.374000342402,74,
+Digital Sector,East Midlands,2010,3.138691156036084,,
+Digital Sector,East Midlands,2011,3.1897491707148626,,
+Digital Sector,East Midlands,2012,3.453490700883155,,
+Digital Sector,East Midlands,2013,3.648384941345666,,
+Digital Sector,East Midlands,2014,3.649310120974686,82,9.637
+Digital Sector,East Midlands,2015,3.54944988779301,72,10.209
+Digital Sector,East Midlands,2016,3.633374000342402,74,
 Digital Sector,East Midlands,2017,,76,
-Digital Sector,London,2010,33833.916016378476,,
-Digital Sector,London,2011,35652.20267042975,,
-Digital Sector,London,2012,36142.79182341328,,
-Digital Sector,London,2013,39190.62674409603,,
-Digital Sector,London,2014,40562.044458360135,352,60.347
-Digital Sector,London,2015,40732.599058595864,369,66.686
-Digital Sector,London,2016,44383.808023481186,401,
+Digital Sector,London,2010,33.833916016378474,,
+Digital Sector,London,2011,35.65220267042975,,
+Digital Sector,London,2012,36.14279182341328,,
+Digital Sector,London,2013,39.19062674409603,,
+Digital Sector,London,2014,40.562044458360134,352,60.347
+Digital Sector,London,2015,40.732599058595866,369,66.686
+Digital Sector,London,2016,44.38380802348119,401,
 Digital Sector,London,2017,,439,
-Digital Sector,North East,2010,2008.9388705773006,,
-Digital Sector,North East,2011,2162.5165860905404,,
-Digital Sector,North East,2012,2174.1931247017847,,
-Digital Sector,North East,2013,2238.738258988633,,
-Digital Sector,North East,2014,2470.177004947254,35,3.268
-Digital Sector,North East,2015,2753.7447142137844,37,3.511
-Digital Sector,North East,2016,2544.8572901528746,36,
+Digital Sector,North East,2010,2.0089388705773006,,
+Digital Sector,North East,2011,2.16251658609054,,
+Digital Sector,North East,2012,2.1741931247017847,,
+Digital Sector,North East,2013,2.238738258988633,,
+Digital Sector,North East,2014,2.470177004947254,35,3.268
+Digital Sector,North East,2015,2.7537447142137843,37,3.511
+Digital Sector,North East,2016,2.5448572901528745,36,
 Digital Sector,North East,2017,,33,
-Digital Sector,North West,2010,6613.726977982286,,
-Digital Sector,North West,2011,7375.466079279795,,
-Digital Sector,North West,2012,7240.822547401352,,
-Digital Sector,North West,2013,7388.259817854981,,
-Digital Sector,North West,2014,7447.63659568612,122,15.46
-Digital Sector,North West,2015,7886.49979734799,121,16.543
-Digital Sector,North West,2016,7936.709321165747,113,
+Digital Sector,North West,2010,6.613726977982286,,
+Digital Sector,North West,2011,7.375466079279795,,
+Digital Sector,North West,2012,7.2408225474013514,,
+Digital Sector,North West,2013,7.388259817854981,,
+Digital Sector,North West,2014,7.44763659568612,122,15.46
+Digital Sector,North West,2015,7.88649979734799,121,16.543
+Digital Sector,North West,2016,7.936709321165747,113,
 Digital Sector,North West,2017,,121,
-Digital Sector,Northern Ireland,2010,1033.6368401669679,,
-Digital Sector,Northern Ireland,2011,1144.0776726704837,,
-Digital Sector,Northern Ireland,2012,1256.4743664239004,,
-Digital Sector,Northern Ireland,2013,1323.615010142625,,
-Digital Sector,Northern Ireland,2014,1255.266813267294,20,1.93
-Digital Sector,Northern Ireland,2015,1261.866524047437,19,2.092
-Digital Sector,Northern Ireland,2016,1381.8418057279557,17,
+Digital Sector,Northern Ireland,2010,1.033636840166968,,
+Digital Sector,Northern Ireland,2011,1.1440776726704838,,
+Digital Sector,Northern Ireland,2012,1.2564743664239004,,
+Digital Sector,Northern Ireland,2013,1.323615010142625,,
+Digital Sector,Northern Ireland,2014,1.2552668132672942,20,1.93
+Digital Sector,Northern Ireland,2015,1.261866524047437,19,2.092
+Digital Sector,Northern Ireland,2016,1.3818418057279558,17,
 Digital Sector,Northern Ireland,2017,,19,
-Digital Sector,Scotland,2010,4578.964907515657,,
-Digital Sector,Scotland,2011,4518.556369416817,,
-Digital Sector,Scotland,2012,4671.957810556481,,
-Digital Sector,Scotland,2013,4914.384798321854,,
-Digital Sector,Scotland,2014,5004.3028944098005,81,10.233
-Digital Sector,Scotland,2015,5185.073220568397,87,11.153
-Digital Sector,Scotland,2016,5368.271249050246,98,
+Digital Sector,Scotland,2010,4.578964907515656,,
+Digital Sector,Scotland,2011,4.5185563694168165,,
+Digital Sector,Scotland,2012,4.6719578105564805,,
+Digital Sector,Scotland,2013,4.914384798321854,,
+Digital Sector,Scotland,2014,5.0043028944098005,81,10.233
+Digital Sector,Scotland,2015,5.185073220568397,87,11.153
+Digital Sector,Scotland,2016,5.368271249050246,98,
 Digital Sector,Scotland,2017,,101,
-Digital Sector,South East,2010,21383.73802110377,,
-Digital Sector,South East,2011,23369.28044664816,,
-Digital Sector,South East,2012,24239.624217546985,,
-Digital Sector,South East,2013,24807.255858791737,,
-Digital Sector,South East,2014,23514.512820403776,268,42.756
-Digital Sector,South East,2015,24517.926225503714,270,45.645
-Digital Sector,South East,2016,25818.49418323281,264,
+Digital Sector,South East,2010,21.38373802110377,,
+Digital Sector,South East,2011,23.369280446648162,,
+Digital Sector,South East,2012,24.239624217546986,,
+Digital Sector,South East,2013,24.807255858791738,,
+Digital Sector,South East,2014,23.514512820403777,268,42.756
+Digital Sector,South East,2015,24.517926225503714,270,45.645
+Digital Sector,South East,2016,25.81849418323281,264,
 Digital Sector,South East,2017,,261,
-Digital Sector,South West,2010,4824.32904267822,,
-Digital Sector,South West,2011,4720.586603342209,,
-Digital Sector,South West,2012,5020.448733349745,,
-Digital Sector,South West,2013,4828.159146189123,,
-Digital Sector,South West,2014,5476.914348576876,117,16.15
-Digital Sector,South West,2015,5178.966152765683,123,16.942
-Digital Sector,South West,2016,5377.2914031734745,118,
+Digital Sector,South West,2010,4.82432904267822,,
+Digital Sector,South West,2011,4.720586603342209,,
+Digital Sector,South West,2012,5.020448733349745,,
+Digital Sector,South West,2013,4.828159146189123,,
+Digital Sector,South West,2014,5.4769143485768765,117,16.15
+Digital Sector,South West,2015,5.178966152765683,123,16.942
+Digital Sector,South West,2016,5.377291403173475,118,
 Digital Sector,South West,2017,,108,
-Digital Sector,Wales,2010,1712.703873911853,,
-Digital Sector,Wales,2011,1794.3769290435139,,
-Digital Sector,Wales,2012,1810.4933495631617,,
-Digital Sector,Wales,2013,1781.340093765829,,
-Digital Sector,Wales,2014,1847.9446926538526,40,4.667
-Digital Sector,Wales,2015,1963.6806221686195,34,4.92
-Digital Sector,Wales,2016,2135.548839449654,37,
+Digital Sector,Wales,2010,1.712703873911853,,
+Digital Sector,Wales,2011,1.7943769290435139,,
+Digital Sector,Wales,2012,1.8104933495631617,,
+Digital Sector,Wales,2013,1.7813400937658288,,
+Digital Sector,Wales,2014,1.8479446926538525,40,4.667
+Digital Sector,Wales,2015,1.9636806221686194,34,4.92
+Digital Sector,Wales,2016,2.1355488394496542,37,
 Digital Sector,Wales,2017,,44,
-Digital Sector,West Midlands,2010,4874.8642099117915,,
-Digital Sector,West Midlands,2011,4781.824087945717,,
-Digital Sector,West Midlands,2012,4609.414685479243,,
-Digital Sector,West Midlands,2013,5121.253592422905,,
-Digital Sector,West Midlands,2014,5234.585983024125,86,12.726
-Digital Sector,West Midlands,2015,5178.082672827863,87,13.556
-Digital Sector,West Midlands,2016,5576.3570906594405,95,
+Digital Sector,West Midlands,2010,4.874864209911792,,
+Digital Sector,West Midlands,2011,4.781824087945717,,
+Digital Sector,West Midlands,2012,4.609414685479243,,
+Digital Sector,West Midlands,2013,5.121253592422905,,
+Digital Sector,West Midlands,2014,5.234585983024125,86,12.726
+Digital Sector,West Midlands,2015,5.178082672827863,87,13.556
+Digital Sector,West Midlands,2016,5.576357090659441,95,
 Digital Sector,West Midlands,2017,,92,
-Digital Sector,Yorkshire and The Humber,2010,3837.0654254605215,,
-Digital Sector,Yorkshire and The Humber,2011,4159.696228514502,,
-Digital Sector,Yorkshire and The Humber,2012,4034.1347366286172,,
-Digital Sector,Yorkshire and The Humber,2013,3920.5183257158765,,
-Digital Sector,Yorkshire and The Humber,2014,3782.8827185360205,72,9.784
-Digital Sector,Yorkshire and The Humber,2015,3916.3174853574283,78,10.509
-Digital Sector,Yorkshire and The Humber,2016,4223.233628759215,77,
+Digital Sector,Yorkshire and The Humber,2010,3.8370654254605214,,
+Digital Sector,Yorkshire and The Humber,2011,4.159696228514502,,
+Digital Sector,Yorkshire and The Humber,2012,4.0341347366286175,,
+Digital Sector,Yorkshire and The Humber,2013,3.9205183257158764,,
+Digital Sector,Yorkshire and The Humber,2014,3.7828827185360208,72,9.784
+Digital Sector,Yorkshire and The Humber,2015,3.9163174853574283,78,10.509
+Digital Sector,Yorkshire and The Humber,2016,4.223233628759215,77,
 Digital Sector,Yorkshire and The Humber,2017,,75,
-Gambling,East,2010,1194.0,,
-Gambling,East,2011,1349.0,,
-Gambling,East,2012,1136.0,,
-Gambling,East,2013,1005.8991074114933,,
-Gambling,East,2014,857.9174205967275,,0.842
-Gambling,East,2015,958.9132283749548,,0.829
-Gambling,East,2016,1086.9581888065998,,
-Gambling,East Midlands,2010,550.0,,
-Gambling,East Midlands,2011,652.0,,
-Gambling,East Midlands,2012,679.0,,
-Gambling,East Midlands,2013,638.935914151038,,
-Gambling,East Midlands,2014,833.9197305101059,,0.656
-Gambling,East Midlands,2015,1041.905718422005,,0.644
-Gambling,East Midlands,2016,1096.939439392519,,
-Gambling,London,2010,1590.0,,
-Gambling,London,2011,1478.0,,
-Gambling,London,2012,1589.0,,
-Gambling,London,2013,1601.8393340687994,,
-Gambling,London,2014,1746.8318575553417,,2.154
-Gambling,London,2015,1819.8353239232717,,2.109
-Gambling,London,2016,1781.6532295865754,,
-Gambling,North East,2010,305.0,,
-Gambling,North East,2011,380.0,,
-Gambling,North East,2012,420.0,,
-Gambling,North East,2013,424.95737639153543,,
-Gambling,North East,2014,459.9557266602502,,0.652
-Gambling,North East,2015,601.9455302207746,,0.64
-Gambling,North East,2016,582.9050342176807,,
-Gambling,North West,2010,1000.0,,
-Gambling,North West,2011,1080.0,,
-Gambling,North West,2012,1233.0,,
-Gambling,North West,2013,1172.8823588406378,,
-Gambling,North West,2014,1188.885563041386,,1.479
-Gambling,North West,2015,1292.8830076004342,,1.462
-Gambling,North West,2016,1226.6956970094684,,
-Gambling,Northern Ireland,2010,233.0,,
-Gambling,Northern Ireland,2011,232.0,,
-Gambling,Northern Ireland,2012,259.0,,
-Gambling,Northern Ireland,2013,223.9775348510681,,
-Gambling,Northern Ireland,2014,216.97911453320498,,0.403
-Gambling,Northern Ireland,2015,266.97584147665583,,0.405
-Gambling,Northern Ireland,2016,268.4956407612262,,
-Gambling,Scotland,2010,1355.0,,
-Gambling,Scotland,2011,1319.0,,
-Gambling,Scotland,2012,1442.0,,
-Gambling,Scotland,2013,1493.8501654798915,,
-Gambling,Scotland,2014,1308.8740134744946,,1.218
-Gambling,Scotland,2015,1342.8784835323922,,1.184
-Gambling,Scotland,2016,1267.6188244117373,,
-Gambling,South East,2010,619.0,,
-Gambling,South East,2011,925.0,,
-Gambling,South East,2012,927.0,,
-Gambling,South East,2013,1167.8828602948552,,
-Gambling,South East,2014,1288.8759384023099,,1.171
-Gambling,South East,2015,1202.89115092291,,1.143
-Gambling,South East,2016,1040.0463110527796,,
-Gambling,South West,2010,299.0,,
-Gambling,South West,2011,260.0,,
-Gambling,South West,2012,312.0,,
-Gambling,South West,2013,348.96499849563736,,
-Gambling,South West,2014,442.9573628488931,,0.643
-Gambling,South West,2015,410.9628121606949,,0.634
-Gambling,South West,2016,351.34002062435553,,
-Gambling,Wales,2010,211.0,,
-Gambling,Wales,2011,300.0,,
-Gambling,Wales,2012,362.0,,
-Gambling,Wales,2013,351.96469762310704,,
-Gambling,Wales,2014,314.9696823869105,,0.526
-Gambling,Wales,2015,311.971769815418,,0.514
-Gambling,Wales,2016,271.49001593700194,,
-Gambling,West Midlands,2010,491.0,,
-Gambling,West Midlands,2011,729.0,,
-Gambling,West Midlands,2012,841.0,,
-Gambling,West Midlands,2013,948.9048239895698,,
-Gambling,West Midlands,2014,1140.8901828681426,,0.914
-Gambling,West Midlands,2015,1107.8997466521896,,0.904
-Gambling,West Midlands,2016,1120.894440798725,,
-Gambling,Yorkshire and The Humber,2010,554.0,,
-Gambling,Yorkshire and The Humber,2011,586.0,,
-Gambling,Yorkshire and The Humber,2012,683.0,,
-Gambling,Yorkshire and The Humber,2013,589.9408284023668,,
-Gambling,Yorkshire and The Humber,2014,587.9434071222329,,1.032
-Gambling,Yorkshire and The Humber,2015,691.937386898299,,1.005
-Gambling,Yorkshire and The Humber,2016,551.9631574013313,,
-Sport,East,2010,588.9252864772769,,
-Sport,East,2011,680.7693287300774,,
-Sport,East,2012,781.0535388533395,,
-Sport,East,2013,829.3132999427548,,
-Sport,East,2014,784.2696791998349,,3.901
-Sport,East,2015,875.6413875254931,,4.055
-Sport,East,2016,927.5816195874851,,
-Sport,East Midlands,2010,454.3509294064568,,
-Sport,East Midlands,2011,463.7407660423095,,
-Sport,East Midlands,2012,502.4685394083198,,
-Sport,East Midlands,2013,431.5254445592535,,
-Sport,East Midlands,2014,305.52538462751,,2.469
-Sport,East Midlands,2015,328.08927159584056,,2.624
-Sport,East Midlands,2016,354.8178677721006,,
-Sport,London,2010,1058.5300289555682,,
-Sport,London,2011,1152.0017264321377,,
-Sport,London,2012,1351.7820367246168,,
-Sport,London,2013,1223.0468457505715,,
-Sport,London,2014,1335.399797862579,,4.049
-Sport,London,2015,1564.6855233849067,,4.404
-Sport,London,2016,1618.4988678544073,,
-Sport,North East,2010,264.2900720211911,,
-Sport,North East,2011,428.90051400668705,,
-Sport,North East,2012,272.66063159314024,,
-Sport,North East,2013,197.03201645878724,,
-Sport,North East,2014,263.2350989732824,,1.17
-Sport,North East,2015,285.60787861423825,,1.236
-Sport,North East,2016,304.0943902519128,,
-Sport,North West,2010,751.0755946362126,,
-Sport,North West,2011,762.7483777255583,,
-Sport,North West,2012,890.489329018383,,
-Sport,North West,2013,935.4201418211676,,
-Sport,North West,2014,994.4386822019258,,3.666
-Sport,North West,2015,1047.7465398639895,,3.835
-Sport,North West,2016,1125.5070443547509,,
-Sport,Northern Ireland,2010,229.41808658961853,,
-Sport,Northern Ireland,2011,300.17369860710085,,
-Sport,Northern Ireland,2012,265.95442635674425,,
-Sport,Northern Ireland,2013,229.53805294434528,,
-Sport,Northern Ireland,2014,226.84493188372335,,1.009
-Sport,Northern Ireland,2015,199.42496260128578,,1.04
-Sport,Northern Ireland,2016,208.28556342862998,,
-Sport,Scotland,2010,544.2541153778521,,
-Sport,Scotland,2011,560.9685204339061,,
-Sport,Scotland,2012,535.9664640123341,,
-Sport,Scotland,2013,598.2955109592953,,
-Sport,Scotland,2014,583.9763046385385,,3.526
-Sport,Scotland,2015,652.0787230030904,,3.55
-Sport,Scotland,2016,679.6266146159816,,
-Sport,South East,2010,1103.990421266008,,
-Sport,South East,2011,1179.8373055563661,,
-Sport,South East,2012,1276.4697942481844,,
-Sport,South East,2013,982.3040459852679,,
-Sport,South East,2014,1122.0966386206724,,6.375
-Sport,South East,2015,1382.1331140316668,,6.672
-Sport,South East,2016,1429.8478404626887,,
-Sport,South West,2010,533.2903535622085,,
-Sport,South West,2011,561.7623245870241,,
-Sport,South West,2012,611.3658667154789,,
-Sport,South West,2013,617.9470203636198,,
-Sport,South West,2014,694.6019312188002,,4.03
-Sport,South West,2015,722.5707501161929,,4.165
-Sport,South West,2016,773.207247601968,,
-Sport,Wales,2010,258.05202308629623,,
-Sport,Wales,2011,323.41454180959175,,
-Sport,Wales,2012,336.10323093404054,,
-Sport,Wales,2013,311.667058235069,,
-Sport,Wales,2014,308.1086714575132,,1.656
-Sport,Wales,2015,361.33860177275807,,1.729
-Sport,Wales,2016,378.99988884529733,,
-Sport,West Midlands,2010,765.342694208701,,
-Sport,West Midlands,2011,462.4901360391556,,
-Sport,West Midlands,2012,493.996608945193,,
-Sport,West Midlands,2013,526.1602043044657,,
-Sport,West Midlands,2014,523.0300736957274,,2.733
-Sport,West Midlands,2015,599.4934764730397,,2.844
-Sport,West Midlands,2016,617.6553389054717,,
-Sport,Yorkshire and The Humber,2010,473.96457850522154,,
-Sport,Yorkshire and The Humber,2011,520.0665063434508,,
-Sport,Yorkshire and The Humber,2012,562.5395771329979,,
-Sport,Yorkshire and The Humber,2013,608.3257651498703,,
-Sport,Yorkshire and The Humber,2014,610.8996148464622,,2.892
-Sport,Yorkshire and The Humber,2015,591.3695596101128,,3.025
-Sport,Yorkshire and The Humber,2016,617.3713262642834,,
-Telecoms,East,2010,2099.0,,
-Telecoms,East,2011,2019.079322673162,,
-Telecoms,East,2012,2255.9999999999995,,
-Telecoms,East,2013,2636.81219955133,,
-Telecoms,East,2014,2981.9999999999995,,1.223
-Telecoms,East,2015,2670.912060053337,,1.262
-Telecoms,East,2016,2488.1822876753413,,
-Telecoms,East Midlands,2010,686.0,,
-Telecoms,East Midlands,2011,688.0270302125487,,
-Telecoms,East Midlands,2012,654.9999999999998,,
-Telecoms,East Midlands,2013,636.9546344763736,,
-Telecoms,East Midlands,2014,715.9999999999999,,0.619
-Telecoms,East Midlands,2015,710.9765910512627,,0.641
-Telecoms,East Midlands,2016,782.4849231999467,,
-Telecoms,London,2010,5898.0,,
-Telecoms,London,2011,6419.252190311555,,
-Telecoms,London,2012,6574.999999999999,,
-Telecoms,London,2013,7347.47669408539,,
-Telecoms,London,2014,7362.999999999999,,2.194
-Telecoms,London,2015,6936.771606360913,,2.29
-Telecoms,London,2016,6936.569153366875,,
-Telecoms,North East,2010,1008.0000000000001,,
-Telecoms,North East,2011,1145.0449848740818,,
-Telecoms,North East,2012,1195.0,,
-Telecoms,North East,2013,1329.9052807748458,,
-Telecoms,North East,2014,1613.9999999999998,,0.276
-Telecoms,North East,2015,1886.9378724525077,,0.299
-Telecoms,North East,2016,1578.9427914570354,,
-Telecoms,North West,2010,2470.0,,
-Telecoms,North West,2011,2362.092798491337,,
-Telecoms,North West,2012,2400.9999999999995,,
-Telecoms,North West,2013,2542.818893992807,,
-Telecoms,North West,2014,2405.9999999999995,,1.067
-Telecoms,North West,2015,2812.9073848483854,,1.113
-Telecoms,North West,2016,2796.585146436544,,
-Telecoms,Northern Ireland,2010,320.0,,
-Telecoms,Northern Ireland,2011,328.0128864966802,,
-Telecoms,Northern Ireland,2012,383.99999999999994,,
-Telecoms,Northern Ireland,2013,449.9679521418651,,
-Telecoms,Northern Ireland,2014,378.99999999999994,,0.175
-Telecoms,Northern Ireland,2015,327.989200935041,,0.168
-Telecoms,Northern Ireland,2016,355.3120314530371,,
-Telecoms,Scotland,2010,1596.0,,
-Telecoms,Scotland,2011,1576.0619180450242,,
-Telecoms,Scotland,2012,1405.9999999999998,,
-Telecoms,Scotland,2013,1532.8908236299542,,
-Telecoms,Scotland,2014,1480.0,,0.663
-Telecoms,Scotland,2015,1527.9496921608009,,0.683
-Telecoms,Scotland,2016,1633.8365041815214,,
-Telecoms,South East,2010,5661.0,,
-Telecoms,South East,2011,5855.230031823361,,
-Telecoms,South East,2012,6024.999999999999,,
-Telecoms,South East,2013,6516.535875796746,,
-Telecoms,South East,2014,7306.0,,1.975
-Telecoms,South East,2015,7646.748230336154,,2.059
-Telecoms,South East,2016,7591.301436044381,,
-Telecoms,South West,2010,1420.0000000000002,,
-Telecoms,South West,2011,1592.062546654618,,
-Telecoms,South West,2012,1693.0000000000002,,
-Telecoms,South West,2013,1557.8890431933908,,
-Telecoms,South West,2014,1813.9999999999998,,0.952
-Telecoms,South West,2015,1870.9383992361643,,0.985
-Telecoms,South West,2016,1619.8635591243794,,
-Telecoms,Wales,2010,554.0,,
-Telecoms,Wales,2011,515.0202333713117,,
-Telecoms,Wales,2012,489.9999999999999,,
-Telecoms,Wales,2013,662.952782822348,,
-Telecoms,Wales,2014,699.0,,0.36
-Telecoms,Wales,2015,757.9750436242716,,0.354
-Telecoms,Wales,2016,751.544830573418,,
-Telecoms,West Midlands,2010,1589.0,,
-Telecoms,West Midlands,2011,1445.0567713039718,,
-Telecoms,West Midlands,2012,1474.0,,
-Telecoms,West Midlands,2013,1473.8950254602426,,
-Telecoms,West Midlands,2014,1721.9999999999998,,0.874
-Telecoms,West Midlands,2015,1679.9446877160638,,0.909
-Telecoms,West Midlands,2016,1741.6277946223304,,
-Telecoms,Yorkshire and The Humber,2010,1443.9999999999998,,
-Telecoms,Yorkshire and The Humber,2011,1509.0592857423485,,
-Telecoms,Yorkshire and The Humber,2012,1458.9999999999998,,
-Telecoms,Yorkshire and The Humber,2013,1392.9007940747072,,
-Telecoms,Yorkshire and The Humber,2014,1530.9999999999998,,0.642
-Telecoms,Yorkshire and The Humber,2015,1541.9492312251014,,0.667
-Telecoms,Yorkshire and The Humber,2016,1678.7495418651918,,
+Gambling,East,2010,1.194,,
+Gambling,East,2011,1.349,,
+Gambling,East,2012,1.136,,
+Gambling,East,2013,1.0058991074114934,,
+Gambling,East,2014,0.8579174205967275,,0.842
+Gambling,East,2015,0.9589132283749547,,0.829
+Gambling,East,2016,1.0869581888065998,,
+Gambling,East Midlands,2010,0.55,,
+Gambling,East Midlands,2011,0.652,,
+Gambling,East Midlands,2012,0.679,,
+Gambling,East Midlands,2013,0.638935914151038,,
+Gambling,East Midlands,2014,0.8339197305101058,,0.656
+Gambling,East Midlands,2015,1.041905718422005,,0.644
+Gambling,East Midlands,2016,1.0969394393925191,,
+Gambling,London,2010,1.59,,
+Gambling,London,2011,1.478,,
+Gambling,London,2012,1.589,,
+Gambling,London,2013,1.6018393340687995,,
+Gambling,London,2014,1.7468318575553416,,2.154
+Gambling,London,2015,1.8198353239232719,,2.109
+Gambling,London,2016,1.7816532295865755,,
+Gambling,North East,2010,0.305,,
+Gambling,North East,2011,0.38,,
+Gambling,North East,2012,0.42,,
+Gambling,North East,2013,0.4249573763915354,,
+Gambling,North East,2014,0.4599557266602502,,0.652
+Gambling,North East,2015,0.6019455302207746,,0.64
+Gambling,North East,2016,0.5829050342176807,,
+Gambling,North West,2010,1.0,,
+Gambling,North West,2011,1.08,,
+Gambling,North West,2012,1.233,,
+Gambling,North West,2013,1.1728823588406379,,
+Gambling,North West,2014,1.188885563041386,,1.479
+Gambling,North West,2015,1.2928830076004343,,1.462
+Gambling,North West,2016,1.2266956970094685,,
+Gambling,Northern Ireland,2010,0.233,,
+Gambling,Northern Ireland,2011,0.232,,
+Gambling,Northern Ireland,2012,0.259,,
+Gambling,Northern Ireland,2013,0.2239775348510681,,
+Gambling,Northern Ireland,2014,0.21697911453320498,,0.403
+Gambling,Northern Ireland,2015,0.2669758414766558,,0.405
+Gambling,Northern Ireland,2016,0.2684956407612262,,
+Gambling,Scotland,2010,1.355,,
+Gambling,Scotland,2011,1.319,,
+Gambling,Scotland,2012,1.442,,
+Gambling,Scotland,2013,1.4938501654798915,,
+Gambling,Scotland,2014,1.3088740134744947,,1.218
+Gambling,Scotland,2015,1.3428784835323921,,1.184
+Gambling,Scotland,2016,1.2676188244117372,,
+Gambling,South East,2010,0.619,,
+Gambling,South East,2011,0.925,,
+Gambling,South East,2012,0.927,,
+Gambling,South East,2013,1.1678828602948552,,
+Gambling,South East,2014,1.2888759384023099,,1.171
+Gambling,South East,2015,1.2028911509229099,,1.143
+Gambling,South East,2016,1.0400463110527796,,
+Gambling,South West,2010,0.299,,
+Gambling,South West,2011,0.26,,
+Gambling,South West,2012,0.312,,
+Gambling,South West,2013,0.34896499849563734,,
+Gambling,South West,2014,0.44295736284889314,,0.643
+Gambling,South West,2015,0.4109628121606949,,0.634
+Gambling,South West,2016,0.35134002062435554,,
+Gambling,Wales,2010,0.211,,
+Gambling,Wales,2011,0.3,,
+Gambling,Wales,2012,0.362,,
+Gambling,Wales,2013,0.35196469762310706,,
+Gambling,Wales,2014,0.31496968238691053,,0.526
+Gambling,Wales,2015,0.31197176981541797,,0.514
+Gambling,Wales,2016,0.27149001593700195,,
+Gambling,West Midlands,2010,0.491,,
+Gambling,West Midlands,2011,0.729,,
+Gambling,West Midlands,2012,0.841,,
+Gambling,West Midlands,2013,0.9489048239895698,,
+Gambling,West Midlands,2014,1.1408901828681426,,0.914
+Gambling,West Midlands,2015,1.1078997466521896,,0.904
+Gambling,West Midlands,2016,1.1208944407987251,,
+Gambling,Yorkshire and The Humber,2010,0.554,,
+Gambling,Yorkshire and The Humber,2011,0.586,,
+Gambling,Yorkshire and The Humber,2012,0.683,,
+Gambling,Yorkshire and The Humber,2013,0.5899408284023668,,
+Gambling,Yorkshire and The Humber,2014,0.5879434071222329,,1.032
+Gambling,Yorkshire and The Humber,2015,0.691937386898299,,1.005
+Gambling,Yorkshire and The Humber,2016,0.5519631574013313,,
+Sport,East,2010,0.5889252864772769,,
+Sport,East,2011,0.6807693287300774,,
+Sport,East,2012,0.7810535388533395,,
+Sport,East,2013,0.8293132999427548,,
+Sport,East,2014,0.7842696791998348,,3.901
+Sport,East,2015,0.8756413875254931,,4.055
+Sport,East,2016,0.9275816195874851,,
+Sport,East Midlands,2010,0.4543509294064568,,
+Sport,East Midlands,2011,0.46374076604230946,,
+Sport,East Midlands,2012,0.5024685394083198,,
+Sport,East Midlands,2013,0.4315254445592535,,
+Sport,East Midlands,2014,0.30552538462751,,2.469
+Sport,East Midlands,2015,0.32808927159584056,,2.624
+Sport,East Midlands,2016,0.3548178677721006,,
+Sport,London,2010,1.0585300289555681,,
+Sport,London,2011,1.1520017264321378,,
+Sport,London,2012,1.3517820367246167,,
+Sport,London,2013,1.2230468457505714,,
+Sport,London,2014,1.335399797862579,,4.049
+Sport,London,2015,1.5646855233849066,,4.404
+Sport,London,2016,1.6184988678544072,,
+Sport,North East,2010,0.26429007202119115,,
+Sport,North East,2011,0.42890051400668705,,
+Sport,North East,2012,0.27266063159314025,,
+Sport,North East,2013,0.19703201645878723,,
+Sport,North East,2014,0.2632350989732824,,1.17
+Sport,North East,2015,0.28560787861423825,,1.236
+Sport,North East,2016,0.30409439025191276,,
+Sport,North West,2010,0.7510755946362127,,
+Sport,North West,2011,0.7627483777255583,,
+Sport,North West,2012,0.8904893290183831,,
+Sport,North West,2013,0.9354201418211676,,
+Sport,North West,2014,0.9944386822019258,,3.666
+Sport,North West,2015,1.0477465398639896,,3.835
+Sport,North West,2016,1.1255070443547508,,
+Sport,Northern Ireland,2010,0.22941808658961851,,
+Sport,Northern Ireland,2011,0.30017369860710086,,
+Sport,Northern Ireland,2012,0.26595442635674427,,
+Sport,Northern Ireland,2013,0.2295380529443453,,
+Sport,Northern Ireland,2014,0.22684493188372334,,1.009
+Sport,Northern Ireland,2015,0.19942496260128578,,1.04
+Sport,Northern Ireland,2016,0.20828556342862997,,
+Sport,Scotland,2010,0.5442541153778522,,
+Sport,Scotland,2011,0.5609685204339061,,
+Sport,Scotland,2012,0.535966464012334,,
+Sport,Scotland,2013,0.5982955109592952,,
+Sport,Scotland,2014,0.5839763046385386,,3.526
+Sport,Scotland,2015,0.6520787230030904,,3.55
+Sport,Scotland,2016,0.6796266146159816,,
+Sport,South East,2010,1.103990421266008,,
+Sport,South East,2011,1.179837305556366,,
+Sport,South East,2012,1.2764697942481844,,
+Sport,South East,2013,0.9823040459852679,,
+Sport,South East,2014,1.1220966386206723,,6.375
+Sport,South East,2015,1.3821331140316668,,6.672
+Sport,South East,2016,1.4298478404626886,,
+Sport,South West,2010,0.5332903535622084,,
+Sport,South West,2011,0.561762324587024,,
+Sport,South West,2012,0.6113658667154789,,
+Sport,South West,2013,0.6179470203636198,,
+Sport,South West,2014,0.6946019312188002,,4.03
+Sport,South West,2015,0.7225707501161929,,4.165
+Sport,South West,2016,0.773207247601968,,
+Sport,Wales,2010,0.2580520230862962,,
+Sport,Wales,2011,0.3234145418095917,,
+Sport,Wales,2012,0.33610323093404054,,
+Sport,Wales,2013,0.311667058235069,,
+Sport,Wales,2014,0.3081086714575132,,1.656
+Sport,Wales,2015,0.36133860177275806,,1.729
+Sport,Wales,2016,0.37899988884529734,,
+Sport,West Midlands,2010,0.765342694208701,,
+Sport,West Midlands,2011,0.46249013603915556,,
+Sport,West Midlands,2012,0.493996608945193,,
+Sport,West Midlands,2013,0.5261602043044656,,
+Sport,West Midlands,2014,0.5230300736957274,,2.733
+Sport,West Midlands,2015,0.5994934764730396,,2.844
+Sport,West Midlands,2016,0.6176553389054716,,
+Sport,Yorkshire and The Humber,2010,0.47396457850522156,,
+Sport,Yorkshire and The Humber,2011,0.5200665063434508,,
+Sport,Yorkshire and The Humber,2012,0.562539577132998,,
+Sport,Yorkshire and The Humber,2013,0.6083257651498704,,
+Sport,Yorkshire and The Humber,2014,0.6108996148464623,,2.892
+Sport,Yorkshire and The Humber,2015,0.5913695596101128,,3.025
+Sport,Yorkshire and The Humber,2016,0.6173713262642834,,
+Telecoms,East,2010,2.099,,
+Telecoms,East,2011,2.019079322673162,,
+Telecoms,East,2012,2.2559999999999993,,
+Telecoms,East,2013,2.63681219955133,,
+Telecoms,East,2014,2.9819999999999998,,1.223
+Telecoms,East,2015,2.670912060053337,,1.262
+Telecoms,East,2016,2.4881822876753414,,
+Telecoms,East Midlands,2010,0.686,,
+Telecoms,East Midlands,2011,0.6880270302125486,,
+Telecoms,East Midlands,2012,0.6549999999999998,,
+Telecoms,East Midlands,2013,0.6369546344763736,,
+Telecoms,East Midlands,2014,0.7159999999999999,,0.619
+Telecoms,East Midlands,2015,0.7109765910512628,,0.641
+Telecoms,East Midlands,2016,0.7824849231999467,,
+Telecoms,London,2010,5.898,,
+Telecoms,London,2011,6.419252190311555,,
+Telecoms,London,2012,6.574999999999999,,
+Telecoms,London,2013,7.3474766940853895,,
+Telecoms,London,2014,7.362999999999999,,2.194
+Telecoms,London,2015,6.936771606360913,,2.29
+Telecoms,London,2016,6.936569153366875,,
+Telecoms,North East,2010,1.008,,
+Telecoms,North East,2011,1.1450449848740818,,
+Telecoms,North East,2012,1.195,,
+Telecoms,North East,2013,1.3299052807748457,,
+Telecoms,North East,2014,1.6139999999999999,,0.276
+Telecoms,North East,2015,1.8869378724525077,,0.299
+Telecoms,North East,2016,1.5789427914570353,,
+Telecoms,North West,2010,2.47,,
+Telecoms,North West,2011,2.3620927984913367,,
+Telecoms,North West,2012,2.4009999999999994,,
+Telecoms,North West,2013,2.542818893992807,,
+Telecoms,North West,2014,2.4059999999999997,,1.067
+Telecoms,North West,2015,2.812907384848385,,1.113
+Telecoms,North West,2016,2.796585146436544,,
+Telecoms,Northern Ireland,2010,0.32,,
+Telecoms,Northern Ireland,2011,0.3280128864966802,,
+Telecoms,Northern Ireland,2012,0.38399999999999995,,
+Telecoms,Northern Ireland,2013,0.44996795214186514,,
+Telecoms,Northern Ireland,2014,0.37899999999999995,,0.175
+Telecoms,Northern Ireland,2015,0.327989200935041,,0.168
+Telecoms,Northern Ireland,2016,0.3553120314530371,,
+Telecoms,Scotland,2010,1.596,,
+Telecoms,Scotland,2011,1.5760619180450242,,
+Telecoms,Scotland,2012,1.4059999999999997,,
+Telecoms,Scotland,2013,1.532890823629954,,
+Telecoms,Scotland,2014,1.48,,0.663
+Telecoms,Scotland,2015,1.527949692160801,,0.683
+Telecoms,Scotland,2016,1.6338365041815215,,
+Telecoms,South East,2010,5.661,,
+Telecoms,South East,2011,5.855230031823361,,
+Telecoms,South East,2012,6.0249999999999995,,
+Telecoms,South East,2013,6.516535875796746,,
+Telecoms,South East,2014,7.306,,1.975
+Telecoms,South East,2015,7.646748230336154,,2.059
+Telecoms,South East,2016,7.591301436044382,,
+Telecoms,South West,2010,1.4200000000000002,,
+Telecoms,South West,2011,1.592062546654618,,
+Telecoms,South West,2012,1.6930000000000003,,
+Telecoms,South West,2013,1.5578890431933907,,
+Telecoms,South West,2014,1.8139999999999998,,0.952
+Telecoms,South West,2015,1.8709383992361643,,0.985
+Telecoms,South West,2016,1.6198635591243795,,
+Telecoms,Wales,2010,0.554,,
+Telecoms,Wales,2011,0.5150202333713118,,
+Telecoms,Wales,2012,0.4899999999999999,,
+Telecoms,Wales,2013,0.662952782822348,,
+Telecoms,Wales,2014,0.699,,0.36
+Telecoms,Wales,2015,0.7579750436242716,,0.354
+Telecoms,Wales,2016,0.751544830573418,,
+Telecoms,West Midlands,2010,1.589,,
+Telecoms,West Midlands,2011,1.4450567713039717,,
+Telecoms,West Midlands,2012,1.474,,
+Telecoms,West Midlands,2013,1.4738950254602425,,
+Telecoms,West Midlands,2014,1.7219999999999998,,0.874
+Telecoms,West Midlands,2015,1.6799446877160638,,0.909
+Telecoms,West Midlands,2016,1.7416277946223304,,
+Telecoms,Yorkshire and The Humber,2010,1.4439999999999997,,
+Telecoms,Yorkshire and The Humber,2011,1.5090592857423486,,
+Telecoms,Yorkshire and The Humber,2012,1.4589999999999999,,
+Telecoms,Yorkshire and The Humber,2013,1.3929007940747071,,
+Telecoms,Yorkshire and The Humber,2014,1.5309999999999997,,0.642
+Telecoms,Yorkshire and The Humber,2015,1.5419492312251013,,0.667
+Telecoms,Yorkshire and The Humber,2016,1.6787495418651917,,
 Tourism,East,2014,,,28.65
 Tourism,East,2015,,,29.412
 Tourism,East Midlands,2014,,,19.194
@@ -659,3 +659,87 @@ Tourism,West Midlands,2014,,,22.799
 Tourism,West Midlands,2015,,,23.417
 Tourism,Yorkshire and The Humber,2014,,,23.115
 Tourism,Yorkshire and The Humber,2015,,,23.809
+UK,East,2010,118.844,,
+UK,East,2011,120.205,,
+UK,East,2012,123.745,,
+UK,East,2013,130.04,,
+UK,East,2014,136.762,,
+UK,East,2015,141.893,,
+UK,East,2016,147.11112665772896,,
+UK,East Midlands,2010,81.91,,
+UK,East Midlands,2011,84.156,,
+UK,East Midlands,2012,86.924,,
+UK,East Midlands,2013,90.734,,
+UK,East Midlands,2014,94.431,,
+UK,East Midlands,2015,97.063,,
+UK,East Midlands,2016,99.90305012682767,,
+UK,London,2010,308.208,,
+UK,London,2011,320.147,,
+UK,London,2012,336.188,,
+UK,London,2013,352.261,,
+UK,London,2014,379.402,,
+UK,London,2015,388.703,,
+UK,London,2016,407.7282565443708,,
+UK,North East,2010,44.008,,
+UK,North East,2011,45.186,,
+UK,North East,2012,46.266,,
+UK,North East,2013,46.809,,
+UK,North East,2014,48.811,,
+UK,North East,2015,50.087,,
+UK,North East,2016,50.58186442971607,,
+UK,North West,2010,139.447,,
+UK,North West,2011,140.133,,
+UK,North West,2012,144.592,,
+UK,North West,2013,149.815,,
+UK,North West,2014,154.709,,
+UK,North West,2015,160.882,,
+UK,North West,2016,166.23591249834777,,
+UK,Northern Ireland,2010,31.283999999999995,,
+UK,Northern Ireland,2011,31.933,,
+UK,Northern Ireland,2012,33.022,,
+UK,Northern Ireland,2013,33.843,,
+UK,Northern Ireland,2014,34.819,,
+UK,Northern Ireland,2015,36.021,,
+UK,Northern Ireland,2016,37.16856212667661,,
+UK,Scotland,2010,110.321,,
+UK,Scotland,2011,113.245,,
+UK,Scotland,2012,116.54099999999998,,
+UK,Scotland,2013,122.256,,
+UK,Scotland,2014,128.595,,
+UK,Scotland,2015,130.117,,
+UK,Scotland,2016,133.79165159211212,,
+UK,South East,2010,209.97400000000002,,
+UK,South East,2011,215.135,,
+UK,South East,2012,223.71900000000002,,
+UK,South East,2013,232.231,,
+UK,South East,2014,242.064,,
+UK,South East,2015,251.77000000000004,,
+UK,South East,2016,258.42616407661274,,
+UK,South West,2010,106.19499999999998,,
+UK,South West,2011,107.016,,
+UK,South West,2012,111.12000000000002,,
+UK,South West,2013,113.755,,
+UK,South West,2014,120.21799999999999,,
+UK,South West,2015,122.326,,
+UK,South West,2016,127.13790303190518,,
+UK,Wales,2010,48.182,,
+UK,Wales,2011,50.801,,
+UK,Wales,2012,52.127,,
+UK,Wales,2013,54.125,,
+UK,Wales,2014,55.154,,
+UK,Wales,2015,57.31600000000001,,
+UK,Wales,2016,59.47548874286397,,
+UK,West Midlands,2010,100.26,,
+UK,West Midlands,2011,103.943,,
+UK,West Midlands,2012,107.28999999999999,,
+UK,West Midlands,2013,111.885,,
+UK,West Midlands,2014,117.85499999999999,,
+UK,West Midlands,2015,121.849,,
+UK,West Midlands,2016,126.35634210741642,,
+UK,Yorkshire and The Humber,2010,96.08799999999998,,
+UK,Yorkshire and The Humber,2011,98.26100000000001,,
+UK,Yorkshire and The Humber,2012,100.10000000000001,,
+UK,Yorkshire and The Humber,2013,102.933,,
+UK,Yorkshire and The Humber,2014,105.582,,
+UK,Yorkshire and The Humber,2015,109.89000000000001,,
+UK,Yorkshire and The Humber,2016,111.98779867444627,,

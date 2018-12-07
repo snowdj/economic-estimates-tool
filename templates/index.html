@@ -38,14 +38,15 @@
 <body>
     <div>demo gif of using tool - click on map, filter down to one time series to better view trend</div>
     <select id="chart-opts">
-        <option value="GVA">GVA</option>
-        <option value="Employment">Employment</option>
-        <option value="Number of business sites">Number of business sites</option>
+        <option value="GVA">GVA (£billions)</option>
+        <option value="Employment">Employment (thousands)</option>
+        <option value="Number of business sites">Number of business sites (thousands)</option>
         <!-- and so on... -->
     </select>
     <div id="chart"></div>
 
-    <div id="mapid"></div>
+    <h2 id="map-title">Regional Estimates for All DCMS Sectors</h2>
+    <div id="map"></div>
 
     <script src="{{ url_for('static',filename='js/chart1.js') }}"></script>
 </body>

@@ -8,7 +8,7 @@ def read_reg_gva(year):
     df = df.drop('UK total', axis=1)
     df = df.set_index('Sector')
     df = df.drop('% of total GVA')
-    df = df.drop('All DCMS sectors (excl Tourism and Civil Society)')
+    # df = df.drop('All Sectors')
     df = df.stack()
     df = df.reset_index()
     df['Year'] = int(year)
@@ -19,7 +19,8 @@ def read_reg_gva(year):
 years = [str(y) for y in list(range(2010, 2017))]
 data = [read_reg_gva(y) for y in years]
 df = pd.concat(data)
-df = df.rename(index={'All Sectors': 'All DCMS Sectors'})
+df = df.rename(index={'All DCMS sectors (excl Tourism and Civil Society)': 'All DCMS Sectors'})
+df = df.rename(index={'All Sectors': 'UK'})
 gva = df.copy()
 
 # employment
@@ -130,4 +131,7 @@ businesses = df.copy()
 
 # combine all measures
 ee = pd.concat([gva.sort_index(), employment.sort_index(), businesses.sort_index()], axis=1).sort_index()
+# there is no point rounding here as data manipulation in javascript means the data will need to be rounded again anyway
+ee['GVA'] = ee['GVA'] / 1000
+# ee['Number of business sites'] = round(ee['Number of business sites'],1)
 ee.to_csv('static/data/ee_agg.csv')
