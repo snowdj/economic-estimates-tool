@@ -93,7 +93,7 @@ function make_chart(measure) {
                         outer: false
                     },
                     padding: {
-                        top: 0,
+                        top: 50,
                         bottom: 0
                     },
                     min: 0
@@ -102,6 +102,10 @@ function make_chart(measure) {
                     tick: {
                         culling: false,
                         outer: false
+                    },
+                    padding: {
+                        left: 0.5,
+                        right: 0.5
                     }
                 }
             },

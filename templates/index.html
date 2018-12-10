@@ -7,10 +7,6 @@
     <title>DCMS Econonmic Estimates Tool</title>
     <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/reset.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
-
     <!-- D3 -->
     <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
     <script src="static/js/D3.js"></script>
@@ -21,33 +17,75 @@
     <!-- <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script> -->
 
     <!-- leafletjs -->
-    <!-- <link rel="stylesheet" type="text/css" href="static/css/leaflet.css">
-    <script src="static/js/leaflet.js"></script> -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+    <link rel="stylesheet" type="text/css" href="static/css/leaflet.css">
+    <script src="static/js/leaflet.js"></script>
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
         crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
-        crossorigin=""></script>
+        crossorigin=""></script> -->
 
     <!-- material UI and google fonts -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="static/css/material-components-web.min.css" />
+    <script src="static/js/material-components-web.min.js"></script>
+    <!-- <link rel="stylesheet" type="text/css" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" />
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script> -->
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/reset.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
 
 </head>
 
 <body>
-    <div>demo gif of using tool - click on map, filter down to one time series to better view trend</div>
-    <select id="chart-opts">
-        <option value="GVA">GVA (£billions)</option>
-        <option value="Employment">Employment (thousands)</option>
-        <option value="Number of business sites">Number of business sites (thousands)</option>
-        <!-- and so on... -->
-    </select>
-    <div id="chart"></div>
+    <div id="wrapper">
+        <div id="navbar" class="mdc-elevation--z6">
+            <a id="dcms-logo" href="https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport">
+                <img src="https://github.com/DCMSstats/images/raw/master/DCMSWHITELOGO-1.png">
+            </a>
+            <div id="header-text">DCMS Econonmic Estimates Tool</div>
+        </div>
 
-    <h2 id="map-title">Regional Estimates for All DCMS Sectors</h2>
-    <div id="map"></div>
+        <div id="main">
 
+            <!-- <div>add demo gif of using tool - click on map, filter down to one time series to better view trend etc</div> -->
+            <div class="widget mdc-elevation--z3">
+                <h2 id="chart-title">Time Series</h2>
+                <div class="widget-graphic">
+                    <select id="chart-opts">
+                        <option value="GVA">GVA (£billions)</option>
+                        <option value="Employment">Employment (thousands)</option>
+                        <option value="Number of business sites">Number of business sites (thousands)</option>
+                        <!-- and so on... -->
+                    </select>
+                    <div id="chart"></div>
+                </div>
+            </div>
+
+            <div class="widget mdc-elevation--z3">
+                <h2 id="map-title">Regional Estimates for All DCMS Sectors</h2>
+                <div class="widget-graphic"></div>
+                <div id="map"></div>
+            </div>
+        </div>
+        <footer>
+            <img src="https://churchill-beta.dwp.gov.uk/images/open-gov-licence.png">
+            <div>
+                <span>
+                    Crown copyright 2018<br>
+                    You may re-use this information (not including logos) free of charge in any format or medium, under the
+                    terms of the Open Government Licence.<br>
+                    To view this licence, visit
+                </span>
+                <a href="www.nationalarchives.gov.uk/doc/open-government-licence/">www.nationalarchives.gov.uk/doc/open-government-licence/</a>
+                <span>
+                    or write to the
+                    Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:
+                </span>
+                <a href="mailto:psi@nationalarchives.gsi.gov.uk">psi@nationalarchives.gsi.gov.uk</a>
+            </div>
+        </footer>
+    </div>
     <script src="{{ url_for('static',filename='js/chart1.js') }}"></script>
 </body>
 
