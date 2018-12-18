@@ -34,6 +34,10 @@
     <!-- Stylesheets -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/reset.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
+    <style type="text/css">
+        .on  { background:blue; }
+        .off { background:red; }
+       </style>
 
 </head>
 
@@ -43,7 +47,7 @@
             <a id="dcms-logo" href="https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport">
                 <img src="https://github.com/DCMSstats/images/raw/master/DCMSWHITELOGO-1.png">
             </a>
-            <div id="header-text">DCMS Econonmic Estimates Tool</div>
+            <div id="header-text">DCMS Economic Estimates Tool</div>
         </div>
 
         <div id="main">
@@ -55,9 +59,26 @@
                     <select id="chart-opts">
                         <option value="GVA">GVA (£billions)</option>
                         <option value="Employment">Employment (thousands)</option>
-                        <option value="Number of business sites">Number of business sites (thousands)</option>
+                        <option value="Exports">Exports (thousands)</option>
+                        <option value="Imports">Imports (thousands)</option>
                         <!-- and so on... -->
                     </select>
+                    <form name="tsChartMeasureTypes" id="tsChartMeasureTypes">
+                        <input type="radio" id="actual-radio" name="tsMeasure" value="actual"
+                               checked>
+                        <label for="actual">Actual</label>
+                    
+                        <input type="radio" id="index-radio" name="tsMeasure" value="indexed">
+                        <label for="indexed">Indexed</label>
+                      
+                        <input type="radio" id="perc-radio" name="tsMeasure" value="percuk">
+                        <label for="percuk">% of UK</label>
+                    </form>
+                      
+
+                    <!-- <div id="actual-button" class="toggle-buttons off">Actual</div>
+                    <div id="index-button" class="toggle-buttons off">Indexed</div>
+                    <div id="perc-uk-button" class="toggle-buttons off">% of UK</div> -->
                     <div id="chart"></div>
                 </div>
             </div>
@@ -87,6 +108,7 @@
         </footer>
     </div>
     <script src="{{ url_for('static',filename='js/chart1.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/map.js') }}"></script>
 </body>
 
 </html>

@@ -195,3 +195,11 @@ footer {
     text-decoration: none; 
     /* color: inherit; */
   }
+
+  label{
+    margin-right: 20px;
+  }
+
+  #tsChartMeasureTypes {
+    margin: 10px 0 0 2px;
+  }
