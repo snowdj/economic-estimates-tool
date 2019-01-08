@@ -9,16 +9,16 @@
 
     <!-- D3 -->
     <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
-    <script src="static/js/D3.js"></script>
+    <script src="{{ url_for('static', filename='js/D3.js') }}"></script>
 
     <!-- C3 -->
-    <link rel="stylesheet" type="text/css" href="static/css/c3.css">
-    <script src="static/js/c3.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/c3.css') }}">
+    <script src="{{ url_for('static', filename='js/c3.js') }}"></script>
     <!-- <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script> -->
 
     <!-- leafletjs -->
-    <link rel="stylesheet" type="text/css" href="static/css/leaflet.css">
-    <script src="static/js/leaflet.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/leaflet.css') }}">
+    <script src="{{ url_for('static', filename='js/leaflet.js') }}"></script>
     <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
         crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
@@ -26,18 +26,14 @@
 
     <!-- material UI and google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="static/css/material-components-web.min.css" />
-    <script src="static/js/material-components-web.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/material-components-web.min.css') }}" />
+    <script src="{{ url_for('static', filename='js/material-components-web.min.js') }}"></script>
     <!-- <link rel="stylesheet" type="text/css" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" />
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script> -->
 
     <!-- Stylesheets -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/reset.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
-    <style type="text/css">
-        .on  { background:blue; }
-        .off { background:red; }
-       </style>
 
 </head>
 
