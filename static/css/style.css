@@ -64,10 +64,14 @@ select {
 
   #main {
       /* border: solid red 5px; */
+      width: 700px;
       grid-area: main;
       display: grid;
       grid-gap: 50px;
   }
+
+#intro-text {
+}
 
 .widget-graphic {
     margin-top: 30px;
@@ -189,10 +193,15 @@ footer {
   }
   footer a {
     /* color: red; */
-    text-decoration: underline;
+    /* text-decoration: underline; */
+  }
+  
+  a, a:visited {
+    color: #ce4b99;
   }
   a:hover { 
-    text-decoration: none; 
+    text-decoration: underline;
+    color: #ce4b99;
     /* color: inherit; */
   }
 
@@ -203,3 +212,7 @@ footer {
   #tsChartMeasureTypes {
     margin: 10px 0 0 2px;
   }
+
+.about-data {
+  margin-top: 80px;
+}

@@ -364,9 +364,9 @@ function make_map(measure) {
         legend.addTo(map);
 
         var overlays = {
-            "GVA": geojson,
-            "Employment": geojson2,
-            "Business sites": geojson3
+            "GVA (2016)": geojson,
+            "Employment (2017)": geojson2,
+            "Business sites (2015)": geojson3
         };
         // var options = {
         //     // Make the "Landmarks" group exclusive (use radio inputs)

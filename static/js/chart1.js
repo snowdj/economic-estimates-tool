@@ -148,7 +148,7 @@ function make_chart(measure, measureType) {
             padding: {
                 top: 10,
                 right: 200,
-                bottom: 20,
+                bottom: 0,
                 left: 50,
             },
             grid: {

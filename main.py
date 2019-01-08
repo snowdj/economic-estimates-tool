@@ -19,8 +19,11 @@ def dated_url_for(endpoint, **values):
 
 @app.route('/')
 def index():
-    """Render home page."""
-    return render_template('index.html')  # we can render templates as usual
+    return 'hi there'
+
+@app.route('/data-tools/economic-estimates')
+def index():
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)

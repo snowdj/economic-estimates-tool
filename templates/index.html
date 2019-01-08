@@ -9,7 +9,7 @@
 
     <!-- D3 -->
     <!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
-    <script src="{{ url_for('static', filename='js/D3.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/d3.js') }}"></script>
 
     <!-- C3 -->
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/c3.css') }}">
@@ -26,8 +26,8 @@
 
     <!-- material UI and google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/material-components-web.min.css') }}" />
-    <script src="{{ url_for('static', filename='js/material-components-web.min.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='eecss/material-components-web.min.css') }}" />
+    <script src="{{ url_for('static', filename='eejs/material-components-web.min.js') }}"></script>
     <!-- <link rel="stylesheet" type="text/css" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" />
     <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script> -->
 
@@ -40,7 +40,7 @@
 <body>
     <div id="wrapper">
         <div id="navbar" class="mdc-elevation--z6">
-            <a id="dcms-logo" href="https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport">
+            <a id="dcms-logo" href="https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport/about/statistics">
                 <img src="https://github.com/DCMSstats/images/raw/master/DCMSWHITELOGO-1.png">
             </a>
             <div id="header-text">DCMS Economic Estimates Tool</div>
@@ -60,37 +60,54 @@
                         <!-- and so on... -->
                     </select>
                     <form name="tsChartMeasureTypes" id="tsChartMeasureTypes">
-                        <input type="radio" id="actual-radio" name="tsMeasure" value="actual"
-                               checked>
+                        <input type="radio" id="actual-radio" name="tsMeasure" value="actual" checked>
                         <label for="actual">Actual</label>
-                    
+
                         <input type="radio" id="index-radio" name="tsMeasure" value="indexed">
                         <label for="indexed">Indexed</label>
-                      
+
                         <input type="radio" id="perc-radio" name="tsMeasure" value="percuk">
                         <label for="percuk">% of UK</label>
                     </form>
-                      
+
 
                     <!-- <div id="actual-button" class="toggle-buttons off">Actual</div>
                     <div id="index-button" class="toggle-buttons off">Indexed</div>
                     <div id="perc-uk-button" class="toggle-buttons off">% of UK</div> -->
                     <div id="chart"></div>
                 </div>
+                <div class="about-data">
+                    <div>For more information about the data please see:</div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2017-gva">GVA</a></div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2017-employment">Employment</a></div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2016-trade">Imports
+                            and Exports</a></div>
+                </div>
             </div>
 
             <div class="widget mdc-elevation--z3">
                 <h2 id="map-title">Regional Estimates for All DCMS Sectors</h2>
-                <div class="widget-graphic"></div>
-                <div id="map"></div>
+                <div class="widget-graphic">
+                    <div id="map"></div>
+                </div>
+                <div class="about-data">
+                    <div>For more information about the data please see:</div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2016-regional-gva">Regional
+                            GVA</a></div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2017-employment">Employment</a></div>
+                    <div><a href="https://www.gov.uk/government/statistics/dcms-sectors-economic-estimates-2016-business-demographics">Business
+                            sites</a></div>
+                </div>
+
             </div>
         </div>
         <footer>
-            <img src="https://churchill-beta.dwp.gov.uk/images/open-gov-licence.png">
+            <img src="https://raw.githubusercontent.com/DCMSstats/images/master/open-gov-licence.png">
             <div>
                 <span>
                     Crown copyright 2018<br>
-                    You may re-use this information (not including logos) free of charge in any format or medium, under the
+                    You may re-use this information (not including logos) free of charge in any format or medium, under
+                    the
                     terms of the Open Government Licence.<br>
                     To view this licence, visit
                 </span>
