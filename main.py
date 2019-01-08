@@ -22,7 +22,7 @@ def index():
     return 'hi there'
 
 @app.route('/data-tools/economic-estimates')
-def index():
+def index_with_path():
     return render_template('index.html')
 
 if __name__ == '__main__':
